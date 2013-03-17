@@ -1,29 +1,12 @@
 ---
-layout: default
+layout: page
+comments: false
+sharing: true
+footer: false
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
-</div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
+<p>Thank you for visiting!</p>
+<p>I currently live in New York City, where I help developers improve their skills while improving the world through <a title="CodeMontage" href="http://codemontage.com" target="_blank">CodeMontage</a>. I also founded and run <a title="Developers for Good" href="http://developersforgood.org" target="_blank">Developers for Good</a>.</p>
+<p>I'd like to see more people learning to code, so I co-founded <a title="Girl Develop It" href="http://girldevelopit.com" target="_blank">Girl Develop It</a>&nbsp;to provide judgment-free, low-cost environments to learn about software development.&nbsp;I previously led data and analytics for&nbsp;<a title="Paperless Post" href="http://paperlesspost.com" target="_blank">Paperless Post</a>.</p>
+<p>I am interested in <a href="http://vanessahurst.com/pages/talks" target="_blank">speaking</a>&nbsp;to help make data, analytics, open source software, and technology in general more accessible. I'd also love <a href="mailto:hello@ovationlab.com?subject=I+really+appreciate..." target="_blank">to hear</a>&nbsp;about anything you really, really appreciate in life.</p>
+<p>Feel free to reach out via&nbsp;<a href="http://ohours.org/DBNess">Ohours</a>,&nbsp;Twitter&nbsp;<a href="http://twitter.com/dbness" target="_blank">@DBNess</a>,&nbsp;or <a href="mailto:vanessa@developersforgood.org" target="_blank">email</a>.</p>

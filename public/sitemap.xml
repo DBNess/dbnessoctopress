@@ -85,16 +85,16 @@
         <lastmod>2013-03-16T23:22:43-04:00</lastmod>
     </url>
     <url>
-        <loc>http://vanessahurst.com/about/</loc>
-        <lastmod>2013-03-17T00:44:32-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://vanessahurst.com/blog/archives/</loc>
         <lastmod>2013-03-16T23:22:49-04:00</lastmod>
     </url>
     <url>
-        <loc>http://vanessahurst.com/</loc>
+        <loc>http://vanessahurst.com/blog/</loc>
         <lastmod>2013-03-16T23:22:49-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vanessahurst.com/</loc>
+        <lastmod>2013-03-17T01:22:46-04:00</lastmod>
     </url>
     <url>
         <loc>http://vanessahurst.com/robots.txt</loc>

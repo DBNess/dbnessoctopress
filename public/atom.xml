@@ -4,7 +4,7 @@
   <title><![CDATA[Code for Humanity]]></title>
   <link href="http://vanessahurst.com/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-03-17T00:00:09-04:00</updated>
+  <updated>2013-03-17T00:08:14-04:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -60,15 +60,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Rails 3.2.6 & Foundation 3.1.1 Setup]]></title>
-    <link href="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/"/>
-    <updated>2012-12-04T00:00:00-05:00</updated>
-    <id>http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup</id>
-    <content type="html"><![CDATA[Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. <p /><div>I followed the documentation steps here: </div><div><a href="http://foundation.zurb.com/docs/gem-install.php" target="_blank">http://foundation.zurb.com/docs/gem-install.php</a> with a few modifications.</div> <p /><div><b>1. Use the newest gem</b>,<b> </b>so your Gemfile edit will actually show</div><div><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">gem</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;zurb-foundation&#39;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">,</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;~&gt; 3.1.1&#39;</span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0); font-family: arial; font-size: small; line-height: normal;">instead of</span></span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0);">gem</span><span style="color: rgb(0,0,0);"> </span><span>&#39;zurb-foundation&#39;</span><span style="color: rgb(0,0,0);">,</span><span style="color: rgb(0,0,0);"> </span><span>&#39;~&gt; 3.0.9&#39;</span></span></div> <p /><div>Even if you use the generators, you&#39;ll need a few changes from the &quot;Advanced&quot; section to get things rolling.</div><p /><div><b>2. Add </b><span style="font-weight: bold; font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">@import</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&quot;foundation&quot;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">; </span>to app/assets/stylesheets/application.css and<b> rename it to</b> app/assets/stylesheets/application<b>.scss</b></div> <p /><div><b>3. Verify </b><span style="background-color: rgb(249,249,249); color: rgb(153,153,136); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; font-style: italic; line-height: 18px;">//= require foundation</span><b> was appended to your application.js.</b></div> <p /><div><b>4. Call </b>$(document).foundationTopBar(); <b>twice</b></div><p /><div><b>5. (Optional)</b> <b>Organize your js</b> with <a href="https://github.com/nahurst/Basic-Javascript" target="_blank">https://github.com/nahurst/Basic-Javascript</a></div> <p /><div>Once you have a new repo with a fly nav bar, tweet me the link so I can check it out on my phone and marvel at the responsiveness!</div>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Scouting for Open Source Software with WebFWD]]></title>
     <link href="http://vanessahurst.com/blog/2012/10/08/scouting-for-open-source-software-with-webfwd/"/>
     <updated>2012-10-08T00:00:00-04:00</updated>
@@ -84,15 +75,6 @@
 <p>Ready to turn your open source labor love into your main gig?&nbsp;<a href="http://webfwd.org/apply">Apply to WebFWD</a>!</p>
 </p>
 <p>If you have any questions about WebFWD (<a href="http://twitter.com/MozWebFWD">@MozWebFWD</a>), please feel free to <a href="mailto:vanessa@developersforgood.org">email me</a>&nbsp;or sign up for a conversation via <a href="http://ohours.org/dbness">Ohours</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Getting Started in SQL with Heroku Postgres]]></title>
-    <link href="http://vanessahurst.com/blog/2012/08/17/getting-started-in-sql-with-heroku-postgres/"/>
-    <updated>2012-08-17T00:00:00-04:00</updated>
-    <id>http://vanessahurst.com/blog/2012/08/17/getting-started-in-sql-with-heroku-postgres</id>
-    <content type="html"><![CDATA[While there are a number of <a href="http://www.postgresql.org/download" target="_blank">one-click installs</a> and <a href="http://postgresapp.com" target="_blank">fancy new ways</a> to get the world&#39;s best open source relational database (PostgreSQL, of course ;)) set up nowadays, nothing is easier than not even installing.<p /><div>Enter Heroku Postgres dev plans: Free Postgres 9.1 in the cloud. WOOHOOOO!</div><p /><div>I&#39;ve been hoping for ways to teach people the wonder that is SQL without limiting the class to linux hackers and it&#39;s been quite a drag. Finally, an easy way to use Postgres without having to become a DBA first&#8230;</div> <p /><div>Create your very own Postgres database: <a href="https://postgres.heroku.com/" target="_blank">https://postgres.heroku.com</a> (Choose the Dev (free) plan to get started)</div><p /><div>Install pgAdmin III or your choice of SQL admin tool: <a href="http://pgadmin.org/download/" target="_blank">http://pgadmin.org/download</a><br /> <p /><div>Use pgAdmin to connect to your database:</div><div><ol><li>File &gt; Add Server. In &quot;New Server Registration&quot;, fill in the following:</li></ol><ol><li>Name - [heroku_app] (this is for your own reference)</li> <li>Host - [ec2_host] (this tells pgAdmin which computer to connect to via the internet as is often an IP address)</li><li>Maintenance DB - [db_name] (this will most likely be postgres on your own servers / other non-Heroku setups)</li> <li>User - [db_user]</li><li>Password - [db_password]</li><li>check Save password (do NOT do this on a shared computer, but on your own since we&#39;re not using sensitive information this is okay)<p /></li></ol><li>Navigate to the Advanced tab in &quot;New Server Registration&quot;</li> <ol><li>In &quot;DB Restrictions&quot;, enter &#39;[db_name]&#39; (include the single quotes. this limits how many Heroku databases you see that you can&#39;t connect to and makes life simpler by avoiding random rejection messages while navigating pgAdmin)</li> </ol></div><div>If you&#39;re in NYC, check out my Skillshare class <a href="http://skl.sh/MhFHWB" target="_blank">Intro to SQL for Data Analysis</a> where we&#39;ll use Postgres to analyze data from DonorsChoose.org and see if we can hack education together!</div> <p /> </div>
 ]]></content>
   </entry>
   
@@ -345,104 +327,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Weekly Data in PostgreSQL]]></title>
-    <link href="http://vanessahurst.com/blog/2011/02/27/weekly-data-in-postgresql/"/>
-    <updated>2011-02-27T00:00:00-05:00</updated>
-    <id>http://vanessahurst.com/blog/2011/02/27/weekly-data-in-postgresql</id>
-    <content type="html"><![CDATA[<p>
-<div style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff; margin: 8px;">
-<p>Don&#8217;t base your week definitions on only part of your data. Create your own. &nbsp;A&nbsp;year = 52 Weeks + 1.25 Days. Clearly not perfect.</p>
-<p>Requirements:</p>
-<p>-Weeks must be standard period of time (7 days)<br />-Must have access to week start date for set-based comparisons<br />-Must have access to week end date for set-based comparisons<br />-Must be able to order weeks in chronological order<br />-Non-shitty performance</p>
-<p>Options:</p>
-<p>1) Dynamically generate weeks from base table of data (likely massive tracking table) using to_char(timestamp, &#8216;WW&#8217;) or to_char(timestamp,&#8217;IW&#8217;) to get Week or ISO Week of Year</p>
-<p>2) Import ISO Standard table of weeks (source?)</p>
-<p>3) Create MyWeeks (or general time periods) table and establish my own</p>
-<p>Though option 1 is widely accepted as a shortcut (and, granted, it&#8217;s pretty easy), let&#8217;s look at the potential problems it presents:</p>
-<p>-I fail to establish an independent, standard time frame over which to compare different data. All of my weekly data is then limited to the timeframe of the data set recorded in the monster table (e.g. if I based my weeks on a signup_tracking table then compared to events_tracking - I would miss events that happened during periods when no one signed up)</p>
-<p>-Perhaps I have a growing web application that doesn&#8217;t have a monster table of events quite yet</p>
-<p>-And/Or that that I know it would suck to run a distinct/group by to get the unique weeks from that monster table anyway</p>
-<p>Alas, as a righteous database programmer I must import from ISO (2) or create my own (3). Given that ISO means nothing to me and I can&#8217;t seem to find a prepared list of dates, the ISO option becomes writing my own function to record ISO dates (fun:<a href="http://en.wikipedia.org/wiki/Seven-day_week#Week_numbering" target="_blank">http://en.wikipedia.org/wiki/Seven-day_week#Week_numbering</a>).&nbsp;</p>
-<p>With options 2 and 3 demanding the same amount of effort, option 3 to create my own week structure seems the best bang for my buck. How to do this quickly in PostgreSQL?</p>
-<p>As follows:</p>
-<p>-Create table</p>
-<p>-Populate first row</p>
-<p>-Create function</p>
-<p>-Add rows as desired by running function</p>
-<p>How have you solved this problem?</p>
-</div>
-</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Founders at Work]]></title>
-    <link href="http://vanessahurst.com/blog/2011/02/27/founders-at-work/"/>
-    <updated>2011-02-27T00:00:00-05:00</updated>
-    <id>http://vanessahurst.com/blog/2011/02/27/founders-at-work</id>
-    <content type="html"><![CDATA[<div style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff; margin: 8px;">
-<p>So I finally got around to reading Jessica Livingston&#8217;s&nbsp;<em>Founders At Work:&nbsp;Stories of Startups&#8217; Early Days</em>. In trying to glean more from my reading (considering every third book I read is in the young adult or vampire genre, let&#8217;s be honest) - I&#8217;ve taken notes on the trends I noticed in these interviews.</p>
-<p />
-<div>Founders tend to have two different profiles- Product Pioneers and Business Beacons. I hope I come up with less corny names by the time I give this up to the interwebs. Founder teams don&#8217;t necessarily need one or the other, but they reflect two very different reasons people start businesses and doubtlessly affect why and how they succeed.</div>
-<p />
-<div><strong>Product / Push / Problem / Method</strong>: focused on a particular problem and/or particular solution, dedicated to fixing the problem and willing to make money on it/ willing to make a business in order to scale the solution</div>
-<div><strong>Business / Pull / Results</strong>: focused on addressing or creating a market, guiding a team to solve any problem that needs solving, making money wherever it is to be made, allowing customers to decide how the team&#8217;s resources should be spent and what&#8217;s worth making</div>
-<p />
-<div>Hypothesis: -some industries more flexible for pioneers</div>
-<div>-what makes a pioneer successful is a great idea, domain expertise, ability to focus &amp; build, great team member</div>
-<div>-what makes a business beacon successful is drive, customer development (link to Steve Blank&#8217;s blog), flexibility, and ability to drive a team</div>
-<p />
-<div><strong>PayPal</strong>&nbsp;- Max Levchin and Peter Thiel were both Business Beacons, though Max was gifted in crypto and started wanting to let those skills guide the business. They even got funding for a Palm Pilot beam-me-money-at-lunch concept and turned into a web-based transaction system after they realized that&#8217;s where the business was. They had certian ideas and talents, but ultimately they used them to fix the business problem at hand and followed their user base to build the business - they weren&#8217;t 100% product focused.</div>
-<p />
-<div><strong>Hotmail</strong>&nbsp;- Sabeer Bhatia and Jack Smith wanted to start a business together because they were tech savvy at the dawn of the internet and they were bored with their day jobs. So they obviously thought they were bringing something to the table, but the initial impulse that got them together and started was the boredom and the drive to contribute to the exciting new age of the internet. They started with a web-based document storage system called JavaSoft and kept the Hotmail concept under wraps for a while, but Bhatia always had an affinity for business models and really wanted to use his tech knowledge to solve everyone&#8217;s problem. Email was a great idea, but e-mail wasn&#8217;t Bhatia&#8217;s passion - a big internet business was.</div>
-<p />
-<div><strong>Apple</strong>&nbsp;- Steve Jobs and Steve Wozniak<br />Jobs routinely asked Wozniak to start a company each time the two had an idea - clearly a Business Beacon, he did the business development and basically took care of everything</div>
-<p />
-<div><strong>Excite&nbsp;</strong>- Joe Kraus and five Stanford classmates (Graham Spencer)</div>
-<div>Business Beacons:&nbsp;&#8220;We decided to start a company together before we had any idea what we were going to work on. But we were so committed to the idea of starting something together that we knew we were going to figure it out.&#8221;</div>
-<div>&#8220;I kind of determined &#8230; that my life wasn&#8217;t going to be about being in an office, working with people I didn&#8217;t want to work with and doing jobs I didn&#8217;t want to do.&#8221;</div>
-<div>Company slogan: &#8220;We are unencumbered by reality&#8221;</div>
-<div>&#8220;We came together to start a company before even knowing what that company was doing. We were more committed to the idea of starting something together and figuring it out than a bunch of people who were only personally interested in how much money they could make or what could be built around a particular idea.&#8221;</div>
-<p />
-<div><strong>Software Arts</strong>&nbsp;- Dan Bricklin and Bob Frankston</div>
-<div>Both had entrepreneur parents and felt starting a business was &#8220;a normal thing&#8221; that they&#8217;d certainly do once they found an idea. They got the idea talking to Personal Software salesperson who was looking for a financial calculation and checkbook tool.</div>
-<p />
-<div><strong>Lotus</strong>&nbsp;- Mitchell Kapor</div>
-<div>Mitch sought to be his own boss and to make money so he wouldn&#8217;t be dependent on anyone else, but he was really just a strong-willed and value-driven Product guy. He&nbsp;had an attitude at Personal Software so he wanted to build a culture that responded to how employees felt and at one point tied manager&#8217;s bonuses to how well they&nbsp;exemplified&nbsp;the core values.</div>
-<p />
-<div>&#8220;I actually wanted to be a software designer. I saw having a company not exactly as being a necessary evil, but there wasn&#8217;t a good alternative.&#8221;&nbsp;</div>
-<div>&#8220;While Lotus was getting started, I just saw it as a vehicle to doing great product. I never wanted to have a big company.&#8221;</div>
-<p />
-<div><strong>Iris Associates / Groove Networks</strong>&nbsp;- Ray Ozzie</div>
-<p />
-<p />
-<div><strong>Fog Creek Software</strong>&nbsp;- Joel Spolsky and Michael Pryor</div>
-<div>Joel wanted to start a software business about doing things the right way - they were more focused on the method than the particular problems they&#8217;d work to solve. Sounds like they&#8217;re both Product folks.</div>
-<p />
-<div><strong>SixApart</strong>&nbsp;- Mena and Ben Trott&nbsp;</div>
-<div>Mena was a blogger who wanted better blogging software and Steve helped her build that software. The fans and downloading and growth of the business was all a means to an end - solve the blogging problem in a great way, in a way that they and others like them could benefit. This is a clear Product (/Service if you will) focus - they weren&#8217;t looking to grow a business and in fact, were even uneasy about the whole thing even when they realized they should start looking for money.</div>
-<p />
-<div><strong>Facebook</strong>&nbsp;- Mark Zuckerburg</div>
-<div>Mark&#8217;s all product - built facebook in his dorm room and carved a niche in social networking that just wasn&#8217;t there before because he did it so well. The business idea was around (six degrees) but the implementation and organic growth were vital and not about someone&nbsp;desperate&nbsp;to make any business. Some might argue this motivation has changed over time with the success of the company, but certainly Product is what got it started.</div>
-</div>
-<p>&nbsp;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Alone in the Crowd]]></title>
-    <link href="http://vanessahurst.com/blog/2011/01/17/alone-in-the-crowd/"/>
-    <updated>2011-01-17T00:00:00-05:00</updated>
-    <id>http://vanessahurst.com/blog/2011/01/17/alone-in-the-crowd</id>
-    <content type="html"><![CDATA[<p>
-<div style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff; margin: 8px;">
-<p>Circling the airport, looking at the Manhattan skyline, coming home to New York City rocks. After I&#8217;ve landed and gotten my Auntie Anne&#8217;s high (don&#8217;t JFK and LGA always smell that intoxicating buttery pretzel scent?), I rebuff a car service salesperson and the long taxi line in favor of public transportation (one of my favorite things about this city). The train is the usual diverse blend - a Chinese couple with a small child, an angry drugdealer with expensive clothes and intimidating dreadlocks yelling in to his phone, and mid-way through Brooklyn a woman boards with tall, bright purple boots and a check-me-out outfit &#8230; and a hairnet. She proceeds to do her makeup for the next 3 stops, then fixes her hair for 2, and leaves a different person.&nbsp;<strong>That alone-in-the-crowd phenomenon is so powerful.</strong>&nbsp;I love that she felt that way. My father&#8217;s judgmental voice comes in and reminds me of experiments done on monkeys in large populations in tight spaces - they get aggressive and their behavior changes, too. I prefer to think of the city as the apex of Innovation. Without us all crowding in here, how would we effectively share our ideas and impressions. How would I see those phenomenal purple boots?</p>
-</div>
-</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[TEDx 636 Eleventh Ave NYC]]></title>
     <link href="http://vanessahurst.com/blog/2011/01/16/tedx-636-eleventh-ave-nyc/"/>
     <updated>2011-01-16T00:00:00-05:00</updated>
@@ -475,6 +359,61 @@
 <p>You almost got me down with these health problems, but even so</p>
 <p>1) <a href="http://www.developersforgood.org">Developers for Good</a> has directly connected dozens of programmers with awesome volunteer opportunities in NYC,<br /> 2) <a href="http://www.hirelite.com">Hirelite</a> has placed dozens of software engineers with great jobs in NYC through efficient video interviews,<br /> 3)&nbsp;<a href="http://www.girldevelopit.org">Girl Develop It</a> has created a community of over 600 women, including 200+ students, who are psyched about software development,<br /> 4) <a href="http://xkcd.com/828">xkcd</a> helped me stay geeky and stay positive,<br /> and<br /> 5) I am going to change the world anyway.</p>
 <p>Bring it on, 2011!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Women in Tech: The Opportunity]]></title>
+    <link href="http://vanessahurst.com/blog/2010/10/26/women-in-tech-the-opportunity/"/>
+    <updated>2010-10-26T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2010/10/26/women-in-tech-the-opportunity</id>
+    <content type="html"><![CDATA[<div><span style=""> </span>In the United States, STEM (Science, Technology, Engineering, and Math) fields are hurting. You know you&#8217;ve got a problem when even the government is trying to solve it (as shown by the White House&#8217;s&nbsp;<a href="http://www.whitehouse.gov/issues/education/educate-innovate" target="_blank">Educate to Innovate</a>&nbsp;initiative&nbsp;(<a href="http://www.whitehouse.gov/the-press-office/president-obama-launches-educate-innovate-campaign-excellence-science-technology-en" target="_blank">Nov. 2009</a>)&nbsp;and private-sector CEO engagement in&nbsp;<a href="http://www.changetheequation.org/" target="_blank">Change The Equation</a>&nbsp;(<a href="http://news.thomasnet.com/IMT/archives/2010/09/inside-change-the-equation-stem-education-initiative.html" target="_blank">Sept. 2010</a>)). Raw data clearly shows that the US awards a significantly smaller portion of science and engineering bachelor&#8217;s degrees than the majority of reporting countries (<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_414.asp" target="_blank">NCES</a>). Within that already meek representation, computer science stands out as a dearth among dearths.</div>
+<p />
+<div>So techies are awesome, but we aren&#8217;t training nearly enough of them. Where could we possibly find more potential programmers??</div>
+<p />
+<div>The New York Times offers a classic&nbsp;<a href="http://www.nytimes.com/imagepages/2007/04/17/science/20070417_COMP_GRAPHIC.html" target="_blank">visualization of the CS gender gap</a>:</div>
+<div>[[posterous-content:yBlksdjcjxmzJnxxeCCD]]</div>
+<div>This visualization shows data through 2004. It has only gotten worse since then.&nbsp;In the US in 2008,&nbsp;<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_268.asp" target="_blank">57%</a>&nbsp;of all&nbsp;bachelor&#8217;s degree recipients were female, but only&nbsp;<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_303.asp" target="_blank">17%</a>&nbsp;of bachelor&#8217;s degrees in computer and information sciences were awarded to women.&nbsp;Oops. Looks like we found our missing programmers!</div>
+<p />
+<div>There are certainly plenty of underrepresented groups in computer science, but the male/female gap is by far the most severe and spans a variety of racial and socioeconomic groups, so it makes sense to address as a distinct priority.</div>
+<p />
+<div>As recent as a few weeks ago, a dedicated&nbsp;<a href="http://techcrunch.com/2010/09/28/girls-in-blech/" target="_blank">Women In Tech panel at TechCrunch Disrupt</a>&nbsp;established that everyone knows women are underrepresented in tech (especially tech startups), but left viewers wanting when it came to solutions. A few panel members noted that what we could really use is more women studying computer science or learning to program. I wholeheartedly agree.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why Software Developers Rock (and Could Be Even Better)]]></title>
+    <link href="http://vanessahurst.com/blog/2010/10/26/why-software-developers-rock-and-could-be-even-better-/"/>
+    <updated>2010-10-26T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2010/10/26/why-software-developers-rock-and-could-be-even-better-</id>
+    <content type="html"><![CDATA[<div>Software developers are awesome. More specifically:</div>
+<p />
+<div>Software developers make significant contributions to the community for free - both free as in beer and free as in speech - which lead to <a href="http://creativecommons.org/">Creative Commons</a> and similar licenses which are growing in popularity across industries. Our forums (e.g. <a href="http://stackoverflow.com/faq" target="_blank">Stack Overflow</a>,&nbsp;<a href="http://ycombinator.com/newsfaq.html" target="_blank">Hacker News</a>,&nbsp;and hundreds of technology-specific online user groups) are some of the most meritocratic that exist today - for the most part, positions are attacked instead of individuals. These benefits come from a base of people who genuinely understand logic (and thus can avoid silly ad hominem attacks) and who are visionaries, always sharing ideas and watching out for the next big breakthrough.</div>
+<p />
+<div>Software developers are exceedingly generous. We do barcamps and hackathons to address global crises ala <a href="http://crisiscommons.org/about-us/" target="_blank">CrisisCamp</a>, we help non-profits en masse through weekend pro-bono <a href="http://givecamp.org/" target="_blank">GiveCamps</a> and through groups like <a href="http://meetup.developersforgood.org" target="_blank">Developers for Good</a>. We&#8217;re addressing worldwide healthcare needs through transparent, open-source projects like <a href="http://openmrs.org/" target="_blank">OpenMRS</a> and improving local government through projects like <a href="http://civiccommons.com/" target="_blank">CivicCommons</a>&nbsp;and <a href="http://www.codeforamerica.org">Code for America</a>.</div>
+<p />
+<div>Software developers have built exceptional communities off of good ideas and a lot of hard work, but we&#8217;ve certainly never been fans of the status quo. We&#8217;re always wondering - <em>how can we get better</em>? Individual software developers improve by picking up new languages, sharing their code through GitHub, or even by creating frameworks like Rails that dramatically improve the efficiency of others. The next step in that evolution is asking as a community, <em>what can we do to collectively improve</em>? Sure, we can say that since we&#8217;re already productive it&#8217;s okay to just keep on keeping on, but that doesn&#8217;t seem true to our potential as individuals or as a community. It&#8217;s also boring. Let&#8217;s get more awesome instead.</div>
+<p />
+<div>Research shows that&nbsp;<a href="http://www.asanet.org/images/journals/docs/pdf/asr/Apr09ASRFeature.pdf">diversity is good business</a>&nbsp;[PDF]&nbsp;and <a href="http://ascc.artsci.wustl.edu/%7Eksawyer/groupgenius/excerpt.html" target="_blank">collaboration is the key to breakthrough creativity</a>, so&nbsp;<em><span style="font-size: medium;">the next great evolution of the software community is to increase diversity.&nbsp;</span></em>The true nature of our field is to seek optimization, to continually refine and improve. Broadening the range of perspectives involved in our work will fuel our ability to innovate as well as propel our economy. It will also increase the awesome.</div>
+<p />
+<div>
+<div>It&#8217;s rational, if not empathetic, to hear the buzzword &#8220;diversity&#8221; and think - why does it matter if the ratio in programming doesn&#8217;t represent the greater population? Why more diverse, rather than just more?&nbsp;Software developers are rapidly becoming the gatekeepers for global knowledge-sharing and connectivity. Computers permeate our lives - shouldn&#8217;t the community of people who control them be as innovative and yes, as representative, as possible?</div>
+<p />
+<div><a href="http://en.wikipedia.org/wiki/Frances_E._Allen">Fran Allen</a>,&nbsp;the first female recipient of the Turing award, summed it up quite well in an interview with Peter Seibel for&nbsp;<a href="http://www.codersatwork.com/">Coders At Work</a>,</div>
+<p />
+<blockquote>
+<div><em>It&#8217;s such a transformative field for society as a whole. And without the involvement of a diverse group of people, the results of what we do are not going to be appealing or useful to all aspects of our society. A piece of our challenge is to make computing, and all that it enables, accessible to everyone. That&#8217;s an ideal.</em></div>
+</blockquote>
+<p>So, my beloved software developers - the state of our industry isn&#8217;t about yelling or blaming or terse 140 character twitfits - we are way too awesome for that. What we do have, though, is <a href="http://blog.vanessahurst.com/women-in-tech-the-opportunity">a clear opportunity to improve</a>. In order to grow and improve as an industry, we need to engage more diverse minds in software development.</p>
+<p>A few ways to capitalize on this immense opportunity, and improve our field:</p>
+<ul>
+<li>Continue above stated awesomeness by writing great code and using your skills to improve the world</li>
+<li>Encourage anyone and everyone you know (and even those you don&#8217;t know) to get involved in software development</li>
+<li>Mentor an aspiring developer on your next side project&nbsp;(perhaps a&nbsp;<a href="http://meetup.girldevelopit.com">Girl Develop It</a>&nbsp;student)</li>
+<li>Seek simple ways to make your work more accessible to non-expert users (e.g. add dreaded Documentation)</li>
+</ul>
+<p>Feel free to share constructive ideas for engaging more minds in software development in the comments or by contacting me directly.</p>
+</div>
 ]]></content>
   </entry>
   

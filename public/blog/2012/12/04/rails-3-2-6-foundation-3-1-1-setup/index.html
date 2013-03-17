@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>The Zone - Code for Humanity</title>
+  <title>Rails 3.2.6 & Foundation 3.1.1 Setup - Code for Humanity</title>
   <meta name="author" content="Vanessa Hurst">
 
   
-  <meta name="description" content="Last Friday morning I woke up completely exhausted. Each previous day that week felt as if it shoud have been Friday, but disappointingly turned out &hellip;">
+  <meta name="description" content="Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. I followed the &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://vanessahurst.com/blog/2011/04/24/the-zone">
+  <link rel="canonical" href="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Code for Humanity" type="application/atom+xml">
@@ -80,7 +80,7 @@
   
   <header>
     
-      <h1 class="entry-title">The Zone</h1>
+      <h1 class="entry-title">Rails 3.2.6 & Foundation 3.1.1 Setup</h1>
     
     
       <p class="meta">
@@ -96,18 +96,14 @@
   
 
 
-<time datetime="2011-04-24T00:00:00-04:00" pubdate data-updated="true">Apr 24<span>th</span>, 2011</time>
+<time datetime="2012-12-04T00:00:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2012</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>Last Friday morning I woke up completely exhausted. Each previous day that week felt as if it shoud have been Friday, but disappointingly turned out to be just some anonymous middle-of-the-week day. I&#8217;m sure I don&#8217;t need to explain the intense psychological role the day Friday plays in our lives - we have <a href="http://www.youtube.com/watch?v=CD2LRROpph0" title="Rebecca Black - Friday" target="_blank">internet sensations</a>&nbsp;for that. But this Friday, instead of strolling into work late, taking extra long coffee breaks, catching up on blogs for hours, and mentally checking out right about lunchtime per the usual Friday routine in Corporate America - I did something different.</p>
-<p>I got in the zone. I layed out the design for a project I&#8217;d been interested in but slightly intimidated by. Though aware I probably didn&#8217;t have enough time to get through it, I dove in. I had one meeting and two phone conferences scheduled that encroached on my <a href="http://www.paulgraham.com/makersschedule.html" title="Paul Graham - Maker's Schedule" target="_blank">maker&#8217;s schedule</a> potential for the day, but I let my brain roam into the project anyway. I started with a brief work breakdown structure, gradually adding more detail as I reviewed the intermediate pieces all the way until I wrote the code as easily as I&#8217;d written the notes. Two meetings were postponed. By the time the third came around, I was in too deep.</p>
-<p>I didn&#8217;t eat lunch, I barely noticed the office puppy, and I didn&#8217;t even refill my water glass for several hours. I just created. I wrote code, I tested, I rewrote, I tested, I simplified. I kept the entire project - a horizontal data slice of our entire application - in my head and just executed, piece by piece, until I had something I could push together and deploy so that anyone could perform this magic with just one command. Every step of the way presented new obstacles - merge conflicts, unfamiliar deploy tools, arbitrary configs to update - but they didn&#8217;t phase me. I was in the zone. I eventually grabbed a few goldfish and a new water glass while waiting on a test data import, but the buzz from powering through this intimidating project stayed with me.</p>
-<p>I spend a lot of time dicussing the future of technology and especially diversity in technology for a variety of reasons - innovation, equality, national security, product quality to name a few. But it&#8217;s days like Friday, especially because it was Friday, that represent a more indulgent but also meaningful reason I hope people give technical careers a shot: passion.</p>
-<p>I have extreme passion for what I do. I can work as if my sore eyes and empty stomach and dry throat don&#8217;t even exist because I absolutely love what I&#8217;m doing. I can get wholly absorbed in something that helps other people (my team, our customers), that I get paid for, and that makes me a better and more capable problem solver. I have complete intellectual freedom, and I&#8217;ve been able to experiment enough to find challenges that both frustrate and satisfy me. Beyond the essentials of food and shelter, I wish nothing more for other humans than that they might find their own zone. That they might know what it feels like to immerse themselves in something so deeply and so fully that time flies. Perhaps coding isn&#8217;t that for many people. I certainly never would have guessed it would be for me. And yet, programming took me from a potentially miserable, rainy day to an enthusiastic, high-on-life adrenaline-infused night.</p>
+<div class="entry-content">Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. <p /><div>I followed the documentation steps here: </div><div><a href="http://foundation.zurb.com/docs/gem-install.php" target="_blank">http://foundation.zurb.com/docs/gem-install.php</a> with a few modifications.</div> <p /><div><b>1. Use the newest gem</b>,<b> </b>so your Gemfile edit will actually show</div><div><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">gem</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;zurb-foundation&#39;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">,</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;~&gt; 3.1.1&#39;</span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0); font-family: arial; font-size: small; line-height: normal;">instead of</span></span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0);">gem</span><span style="color: rgb(0,0,0);"> </span><span>&#39;zurb-foundation&#39;</span><span style="color: rgb(0,0,0);">,</span><span style="color: rgb(0,0,0);"> </span><span>&#39;~&gt; 3.0.9&#39;</span></span></div> <p /><div>Even if you use the generators, you&#39;ll need a few changes from the &quot;Advanced&quot; section to get things rolling.</div><p /><div><b>2. Add </b><span style="font-weight: bold; font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">@import</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&quot;foundation&quot;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">; </span>to app/assets/stylesheets/application.css and<b> rename it to</b> app/assets/stylesheets/application<b>.scss</b></div> <p /><div><b>3. Verify </b><span style="background-color: rgb(249,249,249); color: rgb(153,153,136); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; font-style: italic; line-height: 18px;">//= require foundation</span><b> was appended to your application.js.</b></div> <p /><div><b>4. Call </b>$(document).foundationTopBar(); <b>twice</b></div><p /><div><b>5. (Optional)</b> <b>Organize your js</b> with <a href="https://github.com/nahurst/Basic-Javascript" target="_blank">https://github.com/nahurst/Basic-Javascript</a></div> <p /><div>Once you have a new repo with a fly nav bar, tweet me the link so I can check it out on my phone and marvel at the responsiveness!</div>
 </div>
 
 
@@ -130,7 +126,7 @@
   
 
 
-<time datetime="2011-04-24T00:00:00-04:00" pubdate data-updated="true">Apr 24<span>th</span>, 2011</time>
+<time datetime="2012-12-04T00:00:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2012</time>
       
 
 
@@ -138,7 +134,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://vanessahurst.com/blog/2011/04/24/the-zone/" data-via="dbness" data-counturl="http://vanessahurst.com/blog/2011/04/24/the-zone/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/" data-via="dbness" data-counturl="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/" >Tweet</a>
   
   
   
@@ -147,10 +143,10 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2011/03/26/pg-east-2011-defense-against-the-dark-arts/" title="Previous Post: PG East 2011 & Defense Against the Dark Arts">&laquo; PG East 2011 & Defense Against the Dark Arts</a>
+        <a class="basic-alignment left" href="/blog/2012/10/08/scouting-for-open-source-software-with-webfwd/" title="Previous Post: Scouting for Open Source Software with WebFWD">&laquo; Scouting for Open Source Software with WebFWD</a>
       
       
-        <a class="basic-alignment right" href="/blog/2011/08/07/data-driven-time-management/" title="Next Post: Data-driven Time Management">Data-driven Time Management &raquo;</a>
+        <a class="basic-alignment right" href="/blog/2013/01/04/thinkup-setup-get-better-at-coding-and-social-networking/" title="Next Post: ThinkUp Setup: Get better at coding AND social networking">ThinkUp Setup: Get better at coding AND social networking &raquo;</a>
       
     </p>
   </footer>

@@ -4,7 +4,7 @@
   <title><![CDATA[Code for Humanity]]></title>
   <link href="http://vanessahurst.com/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-03-16T23:18:06-04:00</updated>
+  <updated>2013-03-17T00:00:09-04:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -12,5 +12,470 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Code.org: What most schools don't teach]]></title>
+    <link href="http://vanessahurst.com/blog/2013/02/28/code-org-what-most-schools-don-t-teach/"/>
+    <updated>2013-02-28T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2013/02/28/code-org-what-most-schools-don-t-teach</id>
+    <content type="html"><![CDATA[<blockquote class="posterous_short_quote">
+<p>The programmers of tomorrow are the wizards of the future. You&#8217;re going to look like you have magic powers&#8230;</p>
+</blockquote>
+<p><cite>- Gabe Newell, Founder of Valve</cite></p>
+<p><a href="http://code.org" title="Code.org">Code.org</a>&nbsp;just launched with the vision that <strong>every student in every school should have the opportunity to learn how to code</strong>&nbsp;as well as a film encouraging every student to do so.</p>
+<p>I&#8217;m grateful to have contributed to this inspiring short film by Lesley Chilcott, producer of <em><span style="font-family: arial, sans-serif;">Waiting for Superman</span></em>, alongside Mark Zuckerberg, Bill Gates, <a href="http://bronwengrimes.com/" title="Bronwen Grimes" target="_blank">Bronwen Grimes</a>, Chris Bosh, Will.I.Am, <a href="http://silenok.com" title="Elena Silenok" target="_blank">Elena Silenok</a>, Jack Dorsey, Drew Houston, Ruchi Sanghvi, and other oustanding people.</p>
+<p>If you&#8217;re a teacher, know a teacher, sit next to a teacher on the subway, or otherwise have means to spread the word, please do so! No one is too old or too&#8230; anything, really, to learn how to code.&nbsp;There are several lengths and versions of <a href="http://www.code.org/teach" title="Code.org Teaching Videos" target="_blank">the film available</a>, and you can start <a href="http://code.org/learn" title="Learn to Code" target="_blank">learning to code</a> right away.</p>
+<p>Once you&#8217;re ready, we&#8217;ll be thrilled to have you improve the world by contributing to social good coding projects at&nbsp;<a href="http://codemontage.com" title="CodeMontage: Improve your skills while improving the world" target="_blank">CodeMontage</a>.</p>
+<p><iframe src="http://www.youtube.com/embed/nKIu9yen5nc" frameborder="0" height="315" width="560"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ThinkUp Setup: Get better at coding AND social networking]]></title>
+    <link href="http://vanessahurst.com/blog/2013/01/04/thinkup-setup-get-better-at-coding-and-social-networking/"/>
+    <updated>2013-01-04T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2013/01/04/thinkup-setup-get-better-at-coding-and-social-networking</id>
+    <content type="html"><![CDATA[<p>In typical developer style, I just spent several hours hacking on something only to find a totally different way to accomplish the same thing in about ten minutes.</p>
+<p>The short version of setting up ThinkUp app was pretty phenomenally easy:</p>
+<ol>
+<li>Create a free account with a free plan on <a href="http://appfog.com" title="AppFog" target="_blank">AppFog</a></li>
+<li>Use Launcher.io&#8217;s <a href="https://launcher.io/ThinkUp" title="Launcher.io ThinkUp" target="_blank">ThinkUp Jumpstart one-click install</a> (golden!) to deploy to AppFog</li>
+<li>Upgrade ThinkUp as prompted in your navigation bar</li>
+<li>Update Settings &gt; Account &gt; Enable beta upgrades so you can get the <a href="http://blog.thinkup.com/post/39497204010/thinkup-2-0-getting-better" title="Thinkup 2.0 Beta" target="_blank">snazzy 2.0 beta</a></li>
+<li>Upgrade ThinkUp as prompted in your navigation bar (again)</li>
+<li>Add social media accounts in the plugins section</li>
+<li>Clear your browser&#8217;s cache</li>
+<li>Rock and roll</li>
+</ol>
+<p>I&#8217;m intrigued by ThinkUp for a few reasons:</p>
+<ol>
+<li>It&#8217;s <a href="http://github.com/ginatrapani/thinkup" title="Think Up" target="_blank">open source</a>!</li>
+<li>It has a <a href="https://groups.google.com/forum/?fromgroups#!forum/thinkupapp" title="ThinkUp community" target="_blank">community that first identifies itself as friendly</a></li>
+<li>It has analytics! based on data!</li>
+<li>Its core codebase was written by one of my favorite developer-founders, <a href="http://ginatrapani.org/" title="Gina Trapani" target="_blank">Gina Trapani</a></li>
+<li><a href="http://dashes.com" title="Anil Dash" target="_blank">Anil Dash</a>,&nbsp;Gina&#8217;s co-founder,&nbsp;is one of the best twitter users I know (seriously, did you see <a href="http://twitter.com/anildash/status/275055322102636544" title="High Five Fist Bump" target="_blank">this tweet</a>?)</li>
+</ol>
+<p>Looking forward to seeing how this goes :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails 3.2.6 & Foundation 3.1.1 Setup]]></title>
+    <link href="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/"/>
+    <updated>2012-12-04T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup</id>
+    <content type="html"><![CDATA[Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. <p /><div>I followed the documentation steps here: </div><div><a href="http://foundation.zurb.com/docs/gem-install.php" target="_blank">http://foundation.zurb.com/docs/gem-install.php</a> with a few modifications.</div> <p /><div><b>1. Use the newest gem</b>,<b> </b>so your Gemfile edit will actually show</div><div><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">gem</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;zurb-foundation&#39;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">,</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;~&gt; 3.1.1&#39;</span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0); font-family: arial; font-size: small; line-height: normal;">instead of</span></span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0);">gem</span><span style="color: rgb(0,0,0);"> </span><span>&#39;zurb-foundation&#39;</span><span style="color: rgb(0,0,0);">,</span><span style="color: rgb(0,0,0);"> </span><span>&#39;~&gt; 3.0.9&#39;</span></span></div> <p /><div>Even if you use the generators, you&#39;ll need a few changes from the &quot;Advanced&quot; section to get things rolling.</div><p /><div><b>2. Add </b><span style="font-weight: bold; font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">@import</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&quot;foundation&quot;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">; </span>to app/assets/stylesheets/application.css and<b> rename it to</b> app/assets/stylesheets/application<b>.scss</b></div> <p /><div><b>3. Verify </b><span style="background-color: rgb(249,249,249); color: rgb(153,153,136); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; font-style: italic; line-height: 18px;">//= require foundation</span><b> was appended to your application.js.</b></div> <p /><div><b>4. Call </b>$(document).foundationTopBar(); <b>twice</b></div><p /><div><b>5. (Optional)</b> <b>Organize your js</b> with <a href="https://github.com/nahurst/Basic-Javascript" target="_blank">https://github.com/nahurst/Basic-Javascript</a></div> <p /><div>Once you have a new repo with a fly nav bar, tweet me the link so I can check it out on my phone and marvel at the responsiveness!</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scouting for Open Source Software with WebFWD]]></title>
+    <link href="http://vanessahurst.com/blog/2012/10/08/scouting-for-open-source-software-with-webfwd/"/>
+    <updated>2012-10-08T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2012/10/08/scouting-for-open-source-software-with-webfwd</id>
+    <content type="html"><![CDATA[<p>Dearest Open Source Software,</p>
+<p>I know you&#8217;ve always been a bit worried about the future - no need to worry, you&#8217;ve got friends. Friends who love you and want you to be successful and sustainable. Among those friends are the crew at Mozilla&#8217;s Open Innovation Group - and this time they&#8217;ve put together something really exciting: the <a href="http://webfwd.org">WebFWD</a> accelerator.</p>
+<p><strong>WebFWD is an accelerator for businesses based on open innovation</strong>. The program is entirely remote and lasts 12 weeks with eight of intense education and four of focused product development. At the end of the program, companies may be eligible for <a href="https://webfwd.org/about/fund/">funding from Mozilla</a>.</p>
+<p>Curious what kinds of products and companies WebFWD crew has been working on so far? Here are the&nbsp;current WebFWD Teams:</p>
+<p style="padding-left: 30px;"><a href="http://codebender.cc/">Codebender</a>, aka hardware hacking made easy, <a href="http://twitter.com/codebender_cc">@codebender_cc</a><br /> <a href="http://harp.io/">Harp</a>, easy website deployment using Dropbox, <a href="http://twitter.com/harpplatform">@HarpPlatform</a><br /><a href="http://linklib.org/">Linklib</a>, open source video commentary library<br /> <a href="http://openjumpstarts.org/">Open Jumpstarts</a>, try a full web app with just one click, <a href="http://twitter.com/openjumpstarts">@OpenJumpstarts</a><br /><a href="http://sketchfab.com/">Sketchfab</a>, interactive 3D content publishing, <a href="http://twitter.com/sketchfab">@Sketchfab</a><br /> <a href="http://www.triv.io/">Trivio</a>, streamlined data wrangling<br /><a href="http://beta.wercker.com/">Wercker</a>, simplified continuous deployment, <a href="http://twitter.com/wercker">@wercker</a><p /></p>
+<p>And a few of my favorites from the many awesome WebFWD Alumni:</p>
+<p style="padding-left: 30px;"><a href="http://cashmusic.org/">CASHmusic</a>, Wordpress::Bloggers::CASHMusic::Musicians, <a href="http://twitter.com/cashmusic">@cashmusic</a><br /><a href="http://www.tomahawk-player.org/">Tomahawk</a>, a delightful open source iTunes replacement, <a href="http://twitter.com/tomahawk">@tomahawk</a><br /> <a href="http://www.propelly.com/">Propelly</a>, super simple sales of digital files, <a href="http://twitter.com/propelly">@propelly</a></p>
+<p>
+<p>Ready to turn your open source labor love into your main gig?&nbsp;<a href="http://webfwd.org/apply">Apply to WebFWD</a>!</p>
+</p>
+<p>If you have any questions about WebFWD (<a href="http://twitter.com/MozWebFWD">@MozWebFWD</a>), please feel free to <a href="mailto:vanessa@developersforgood.org">email me</a>&nbsp;or sign up for a conversation via <a href="http://ohours.org/dbness">Ohours</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Started in SQL with Heroku Postgres]]></title>
+    <link href="http://vanessahurst.com/blog/2012/08/17/getting-started-in-sql-with-heroku-postgres/"/>
+    <updated>2012-08-17T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2012/08/17/getting-started-in-sql-with-heroku-postgres</id>
+    <content type="html"><![CDATA[While there are a number of <a href="http://www.postgresql.org/download" target="_blank">one-click installs</a> and <a href="http://postgresapp.com" target="_blank">fancy new ways</a> to get the world&#39;s best open source relational database (PostgreSQL, of course ;)) set up nowadays, nothing is easier than not even installing.<p /><div>Enter Heroku Postgres dev plans: Free Postgres 9.1 in the cloud. WOOHOOOO!</div><p /><div>I&#39;ve been hoping for ways to teach people the wonder that is SQL without limiting the class to linux hackers and it&#39;s been quite a drag. Finally, an easy way to use Postgres without having to become a DBA first&#8230;</div> <p /><div>Create your very own Postgres database: <a href="https://postgres.heroku.com/" target="_blank">https://postgres.heroku.com</a> (Choose the Dev (free) plan to get started)</div><p /><div>Install pgAdmin III or your choice of SQL admin tool: <a href="http://pgadmin.org/download/" target="_blank">http://pgadmin.org/download</a><br /> <p /><div>Use pgAdmin to connect to your database:</div><div><ol><li>File &gt; Add Server. In &quot;New Server Registration&quot;, fill in the following:</li></ol><ol><li>Name - [heroku_app] (this is for your own reference)</li> <li>Host - [ec2_host] (this tells pgAdmin which computer to connect to via the internet as is often an IP address)</li><li>Maintenance DB - [db_name] (this will most likely be postgres on your own servers / other non-Heroku setups)</li> <li>User - [db_user]</li><li>Password - [db_password]</li><li>check Save password (do NOT do this on a shared computer, but on your own since we&#39;re not using sensitive information this is okay)<p /></li></ol><li>Navigate to the Advanced tab in &quot;New Server Registration&quot;</li> <ol><li>In &quot;DB Restrictions&quot;, enter &#39;[db_name]&#39; (include the single quotes. this limits how many Heroku databases you see that you can&#39;t connect to and makes life simpler by avoiding random rejection messages while navigating pgAdmin)</li> </ol></div><div>If you&#39;re in NYC, check out my Skillshare class <a href="http://skl.sh/MhFHWB" target="_blank">Intro to SQL for Data Analysis</a> where we&#39;ll use Postgres to analyze data from DonorsChoose.org and see if we can hack education together!</div> <p /> </div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[That Special Someone (A Mentor / Mentee)]]></title>
+    <link href="http://vanessahurst.com/blog/2012/08/16/that-special-someone-a-mentor-mentee-/"/>
+    <updated>2012-08-16T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2012/08/16/that-special-someone-a-mentor-mentee-</id>
+    <content type="html"><![CDATA[<p>They say when you find the right person you just <em>know</em>.</p>
+<p>Why do we embrace this notion for love and friend relationships, but create our most pivotal career relationships from job titles or at best, text-based inventories of skills? Mentoring is about so much more than a discrete transfer of skills - it&#8217;s about sharing the real failures and successes we inevitably encounter in our professional lives.</p>
+<p>I&#8217;m grateful to have mentored as a technical lead, founder, and girl scout. I&#8217;ve had excellent short and long-term mentors and I&#8217;ve also connected with &#8220;mentors&#8221; who I wasn&#8217;t sure what to talk about with next. I&#8217;ve seen mentoring relationships between people of all ages and from casual to corporate environments and noticed a few common factors of success.</p>
+<div>All relationships need a strong foundation, and mentoring is no different. The key components of a strong mentoring pair are:<em>&nbsp;</em></div>
+<p><strong>Chemistry</strong></p>
+<ul>
+<li>You have to straight up like each other.&nbsp;Mentors must genuinely care about their mentees as individuals so they will share time and experiences openly, without resentment.&nbsp;Mentees must feel a strong enough connection to overcome the discomfort of asking tough questions and to internalize the mentor&#8217;s advice.</li>
+<li>Corporate mentoring programs tend to match purely based on divisions or job ranks, and their programs are valuable for networking, but rarely as effective as matches with an emotional bond.</li>
+</ul>
+<p><strong>Shared Values</strong></p>
+<ul>
+<li>Sharing similar life values makes it more likely you&#8217;ll be comfortable with similar tactics for dealing with problems, and that you&#8217;ll both listen to each other.<br /> <span style=""> </span>For example - I believe strongly in the&nbsp;<a href="http://en.wikipedia.org/wiki/Free_culture_movement" target="_blank"><span>free culture movement</span></a>. It would be hard for me to take the advice of a technical mentor who believed in technology that strongly limits use in order to protect copyright holders, such as&nbsp;<a href="http://en.wikipedia.org/wiki/Digital_rights_management" target="_blank"><span>DRM</span></a>. Without a strong basis of shared values, the depth of our relationship and ability to explore solutions together would be limited. I also might snarl at them, which could compromise our chemistry.</li>
+<li>Communities (vs. corporations) often spawn excellent mentoring relationships, even if they don&#8217;t deliberately facilitate, because of the strength of shared values among members.</li>
+</ul>
+<p><strong>Transparent Goals</strong></p>
+<ul>
+<li>Both mentors and mentees must articulate and share their goals. Otherwise, you&#8217;re just hanging out.</li>
+<li>At the end of a session, and routinely during the active mentoring relationship, both sides should be able to ask &#8220;did you get what you hoped for out of this?&#8221;.</li>
+</ul>
+<p>Once you&#8217;ve developed a relationship with someone you can learn from or share your knowledge with, the details of when, how, and how often suddenly don&#8217;t seem like such a chore. You&#8217;ll be free to focus on sharing and improving through mentorship.</p>
+<p>Ready to mentor? Reach out to your communities and join the&nbsp;<a href="http://ohours.org/topics/mentoring" target="_blank">mentoring</a>&nbsp;topic on&nbsp;<a href="http://ohours.org/mentoring" target="_blank">Ohours</a>*, which has additional&nbsp;<a href="http://ohours.org/mentoring" target="_blank">tips for mentoring</a>.</p>
+<p>*Note: I&#8217;m an advisor and&nbsp;<span style="text-decoration: line-through;">obsessive</span>&nbsp;avid user of&nbsp;<a href="http://ohours.org/" target="_blank">Ohours</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Mentor Got In a Fist Fight]]></title>
+    <link href="http://vanessahurst.com/blog/2012/08/16/my-mentor-got-in-a-fist-fight/"/>
+    <updated>2012-08-16T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2012/08/16/my-mentor-got-in-a-fist-fight</id>
+    <content type="html"><![CDATA[<p>I push an omelet around on my plate as I try to explain to my mentor what&#8217;s holding me back on a project. It comes down to embarrassment - sometimes I&#8217;m so deeply afraid of being embarrassed, I don&#8217;t even try. My mentor has the perfect cure: she tells me the most embarrassing situation she can remember. Think Lost meets Jerry Springer, startup-style. Her story is messy. And exactly what I need to hear. My thoughts shift - This amazing person is human! If she can make real mistakes and still be so wonderful, maybe there&#8217;s a chance for me after all!</p>
+<p>I&#8217;ve been lucky to mentor, be mentored, co-mentor, and generally just talk about work with a lot of great people in various settings. Here are a few keys to success I&#8217;ve noticed for both mentors and mentees.</p>
+<p><strong>What Awesome Mentors Do</strong><strong>&nbsp;</strong></p>
+<p><em>Tell it like it is</em></p>
+<ul>
+<li>Give real, personal, unfiltered insight on what a job, company, or project was really like. Not the &#8220;we used analytics and made improvements&#8221; excerpts from the company press release, but the &#8220;I almost punched him in the face and stormed out&#8221; moments your mentee can only learn about from a real person - you.</li>
+</ul>
+<p><em>Add perspective</em></p>
+<ul>
+<li>Think outside the box to help your mentee achieve goals or gain insight on a problem. Mentors usually have technical knowledge or experience that puts them in a position to help, even if just by planting the seed of an idea.</li>
+</ul>
+<p><em>Advocate</em></p>
+<ul>
+<li>Advocate for your mentee, both directly (if they suffer from&nbsp;<a href="http://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank"><span>impostor syndrome</span></a>) and to others within the organization, company, or community. Remember, your mentee doesn&#8217;t know your entire network, so you&#8217;ll need to think of who can help your mentee rather than waiting for an introduction request.</li>
+</ul>
+<p><em>Set Expectations</em></p>
+<ul>
+<li>Let your mentee know what you do and don&#8217;t want to talk about, how often you&#8217;d like to be contacted, and through which channels. There&#8217;s no wrong answer to this, and it helps them get comfortable within your parameters so you both can get the most out of the relationship.</li>
+</ul>
+<p><em>Listen</em></p>
+<ul>
+<li>Articulating how things are going to someone they respect who&#8217;s not their boss can be really meaningful for a mentee. Don&#8217;t think you need to talk the whole time to provide value.</li>
+</ul>
+<p><br /><strong>What Awesome Mentees Do</strong></p>
+<p><em>Make meeting easy</em></p>
+<ul>
+<li>Use<span>&nbsp;<a href="http://ohours.org/" target="_blank"><span>Ohours</span></a></span>* or another tool to limit time spent on back-and-forth scheduling.</li>
+<li>Send calendar invitations and polite reminders before meetings.</li>
+</ul>
+<p><em>Articulate goals</em></p>
+<ul>
+<li>Write down what you hope to accomplish - what&#8217;s going on that you want to bring up?</li>
+<li>What interesting experience have you been hoping to hear more about from your mentor?</li>
+<li>Email with your mentor in advance of your session to share specifics if you can (though it&#8217;s always okay to bring something else up).</li>
+</ul>
+<p><em>Make follow-up easy</em></p>
+<ul>
+<li>Take notes and remind mentors of connections they&#8217;d like to make, that book they forgot the name of but think you&#8217;d love, etc.</li>
+</ul>
+<p>The keys to mentoring are ultimately simple- be genuine, and share your experiences and your goals. Mentoring relationships come in all frequencies (weekly or a few times a year), mediums (video chat or brunch), and arenas (developing specific skills or seeking a promotion). It&#8217;s up to you to <a href="http://vanessahurst.com/finding-that-special-someone-a-mentor-mentee">find a great match</a> and get the most out of the relationship.</p>
+<p>Ready to mentor? Reach out to your communities and join the <a href="http://ohours.org/topics/mentoring" target="_blank"><span>mentoring</span></a> topic on <a href="http://ohours.org/mentoring" target="_blank"><span>Ohours</span></a>*, which has additional <a href="http://ohours.org/mentoring" target="_blank">tips for mentoring</a>.</p>
+<p>*Note: I&#8217;m an advisor and <span style="text-decoration: line-through;">obsessive</span> avid user of <a href="http://ohours.org/" target="_blank">Ohours</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Github Hacks]]></title>
+    <link href="http://vanessahurst.com/blog/2012/08/06/github-hacks/"/>
+    <updated>2012-08-06T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2012/08/06/github-hacks</id>
+    <content type="html"><![CDATA[<p>Most frequently used - view the Issues assigned to you across all repositories within an organization:</p>
+<p><a href="https://github.com/organizations/paperlesspost/dashboard/issues/assigned?direction=desc&amp;state=open">https://github.com/organizations/paperlesspost/dashboard/issues/assigned?dire&#8230;</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby Heroes, Open Source, and Hacking to Prevent Human Trafficking]]></title>
+    <link href="http://vanessahurst.com/blog/2012/05/09/ruby-heroes-open-source-and-hacking-to-prevent-human-trafficking/"/>
+    <updated>2012-05-09T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2012/05/09/ruby-heroes-open-source-and-hacking-to-prevent-human-trafficking</id>
+    <content type="html"><![CDATA[<p>First and foremost, Congratulations to&nbsp;<a href="http://twitter.com/yokolet">Yoko Harada</a>, one of this year&#8217;s&nbsp;<a href="http://rubyheroes.com/">Ruby Heroes</a>! She&#8217;s made substantial contributions to the Ruby community, specifically for her work on open source projects&nbsp;<a href="http://jruby.org/">JRuby</a>&nbsp;and&nbsp;<a href="http://nokogiri.org">Nokogiri</a>. Yoko inspired me to share an example of one of many projects that were possible thanks to free and open source software, and specifically Nokogiri.<p />In July 2011, Girl Develop It hosted a Hackathon for Humanity (in the Hamptons thanks to&nbsp;<a href="http://twitter.com/dbdj1007">Deborah Jackson</a>&nbsp;&amp;&nbsp;<a href="http://jumpthru.net/">JumpThru</a>!),&nbsp;<a href="http://twitter.com/nahurst">Nathan Hurst</a>&nbsp;and I used Nokogiri to parse data from&nbsp;<a href="http://backpage.com/">Backpage.com</a>&nbsp;and flag potential evidence of human trafficking. We used <a href="http://www.gnu.org/software/wget/">wget</a> to pull the posts and Nokogiri to parse the data into a&nbsp;<a href="http://rubyonrails.org/">Rails</a>&nbsp;application and&nbsp;<a href="http://postgresql.org/">Postgres</a>&nbsp;database, which I then queried to identify potential child prostitution advertisements. We were able to flag hundreds to be investigated and removed by&nbsp;<a href="http://backpage.com/">Backpage.com</a>.<p />The project readme file expands a bit on our methodology- basically, we&#8217;d read that many human trafficking rings tend to diversify their crime businesses by engaging in many types of trafficking and other illegal activity, so we cross-referenced some of the phone numbers across different subject areas on the site. We found dozens of posts that once examined by the human eye were clearly not legal, and hardly any false positives. This method proved quite accurate and a lot more manageable than manually sorting through all of the posts.<p />We definitely wouldn&#8217;t have pulled that off, especially not in a weekend hackathon, without Nokogiri being free, open source, and delightfully easy to use.<p />The project is on Github at&nbsp;<a href="https://github.com/girldevelopit/traffic-report">https://github.com/girldevelopit/traffic-report</a>. Note that this is the code from a one-time weekend project, but if you&#8217;re interested in forking or just learning from it and building a service to continue this work, please do! We&#8217;re happy to share any undocumented lessons or answer questions, just reach out by email (<a href="mailto:nathan@ohours.org">nathan@ohours.org</a> or <a href="mailto:vanessa@developersforgood.org">vanessa@developersforgood.org</a>).<p /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Piercing the Tech Networking Bubble with Open Mentoring]]></title>
+    <link href="http://vanessahurst.com/blog/2011/11/13/piercing-the-tech-networking-bubble-with-open-mentoring/"/>
+    <updated>2011-11-13T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2011/11/13/piercing-the-tech-networking-bubble-with-open-mentoring</id>
+    <content type="html"><![CDATA[<p>Last night I watched&nbsp;Soledad O&#8217;Brien&#8217;s CNN <a href="http://inamerica.blogs.cnn.com/category/black-in-america/" target="_blank">Black in America: The New Promised Land - Silicon Valley</a> special that offered a lesser known perspective on an industry I know well. The special followed black entrepreneurs who participated in the first annual <a href="http://www.newmeaccelerator.com/" target="_blank">NewMe startup accelerator</a>. After the special aired, I watched <a href="http://www.marioarmstrong.com/on-air/innovation-nation-the-official-live-webcast/">Mario Armstrong&#8217;s Town Hall</a> and heard plenty of great advice from accomplished panelists of different races and backgrounds. In just an hour and a half they covered a range of cultural problems and shared opinions on solutions.</p>
+<p>The best thing about pieces like this is that they focus on a problem and hopefully, get us all riled up to fix it - but do we? One of the audience members stood up and reminded the room that the change wasn&#8217;t going to come down from the panelists, but come up from them - that they had to make the change for themselves.</p>
+<p>Right here and right now, I&#8217;d like to do something to address this problem. We heard over and over again the importance of networks and of having the right conversation with the right people. Entrepreneurs were advised to &#8220;insert&#8221; themselves into social circles of Silicon Valley. I agree with panelist/engineer/founder <a href="http://twitter.com/hankwilliams">Hank Williams</a> that taking baby steps is the key to both programming and life, so here&#8217;s my step for today:</p>
+<p><strong>I&#8217;ll be hosting open video chats specifically to mentor people who aren&#8217;t already in my established social circles.</strong></p>
+<p>Here&#8217;s&nbsp;<a href="http://ohours.org/DBNess" title="My Open Mentoring Availability" target="_blank">My Open Mentoring Availability</a>, starting with</p>
+<ul>
+<li><a href="http://ohours.org/officehours/3128">Thursday, November 17</a> at 1:00pm, 1:15pm, and 1:30pm ET&nbsp;</li>
+<li><a href="http://ohours.org/officehours/3130">Wednesday, November 23</a> at 2:00pm, 2:15pm, and 2:30pm ET</li>
+</ul>
+<p>My goal is to make it less uncomfortable for new people to get involved in tech and startup communities.</p>
+<p>I hope to see other leaders of these communities offer their time and guidance as well. I&#8217;ve written some and talked a whole lot about personal scheduling and efficiency, so I want to be clear that this is a relatively small, effective commitment - I plan to give 45 minutes to conversations with up to three new people and to spend the remaining 15 minutes of my alotted hour following up or laying the groundwork to help those people. This will amount to roughly one hour a week. If you&#8217;d like to help, too,&nbsp;consider&nbsp;<a href="http://ohours.org/topics/mentoring">joining the Ohours mentoring topic</a>.</p>
+<p>If you or anyone you know aspires to be an entrepreneur, engineer,&nbsp;teacher,&nbsp;computer scientist, wielder of data, or perhaps is now a girl scout, military brat, data lover, amateur organizational psychologist, blonde - or maybe none of the above, but would like to talk with someone who is - please send them my way. My door is <a href="http://ohours.org/DBNess">wide open</a>.</p>
+<p>&nbsp;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Data-driven Time Management]]></title>
+    <link href="http://vanessahurst.com/blog/2011/08/07/data-driven-time-management/"/>
+    <updated>2011-08-07T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2011/08/07/data-driven-time-management</id>
+    <content type="html"><![CDATA[<blockquote>
+<div><span style="font-family: Times; font-size: medium;"><strong>Laziness</strong>: The quality that makes you go to great effort to reduce overall energy expenditure.</span></div>
+</blockquote>
+<p />
+<div>In keeping with Larry Wall&#8217;s&nbsp;<a href="http://threevirtues.com/" target="_blank">virtues of a programmer</a>, I seek to be as lazy as possible while still&nbsp;achieving&nbsp;my goals. Working smarter, not harder, is fundamental in every program I write - shouldn&#8217;t it be fundamental in how I behave? My deepest fear is working incredibly hard on something that creates no value or helps no one at all. At the end of the day, am I tired because I changed the world, or because I developed carpal tunnel syndrome refreshing my Facebook feed?</div>
+<div>
+<div>
+<p />
+<div>I&#8217;m employed full-time at <a href="http://paperlesspost.com">Paperless Post</a>, where I work across teams on a wide variety of projects. I spend evenings and weekends running&nbsp;<a href="http://girldevelopit.com">Girl Develop It</a>, organizing <a href="http://meetup.developersforgood.org">Developers for Good</a>, and advising <a href="http://hirelite.com">Hirelite</a>. I also exercise and watch teen dance movies of low artistic caliber regularly and eat dessert every day.</div>
+<div>
+<p />
+<div>Simply put, I work a lot and I get a lot done. Despite that productivity, I recently found myself unable to keep up with even important emails, and on edge about relationships that might not use my time effectively. I&#8217;m familiar with techniques like <a href="http://en.wikipedia.org/wiki/Getting_Things_Done">Getting Things Done</a> and <a href="http://www.pomodorotechnique.com/">Pomodoro</a>, but I hesitate to adopt any entirely new method without fully understanding what could be improved about my own.</div>
+</div>
+<p />
+<div>So, in an effort to understand my time&#8217;s ROI, I turned to data. I tried several time-tracking tools for a couple of hours each on a Sunday while I did remote volunteer work. The free tool that was easiest to use and gave me the most freedom in analyzing my information was <a href="http://bit.ly/rBQs2s" title="Toggl.com">Toggl</a>. Thanks to web, desktop, and mobile apps, I was able to bring time tracking into all aspects of my life.</div>
+<p />
+<div>I have a workspace for each significant obligation in my life - e.g. Paperless Post, Girl Develop It, Developers for Good &amp; Volunteering, Personal. I use Projects to track the type of work I&#8217;m doing - e.g. Analytics, DBA, Product, Finance, Admin, Relaxation. I track&nbsp;significant&nbsp;emails or questions I answer, what I&#8217;m debugging, coding, or fixing, how long my meetings, calls, and <a href="http://ohours.org/DBNess">Ohours</a>&nbsp;take, and just about everything else.&nbsp;When I change windows on my desktop and may be off-task, the Auto-pilot Toggl app sweetly asks&nbsp;<span style="text-decoration: line-through;">&#8220;WTF are you doing?&#8221;</span> &#8230; &#8220;Click to change project&#8221;, making it easy to stay honest.</div>
+<p />
+<div>From this meticulous data collection, I&#8217;ve learned a few things about productivity:</div>
+<p />
+<p />
+<div><strong><span style="font-size: medium;">You can&#8217;t manage what you don&#8217;t measure.</span></strong></div>
+<p />
+<div style="padding-left: 30px;">I recently had the feeling that I was doing way too much X and not enough Y, and I was not amused. Every time an X task came up, I developed a wrinkle. After one week of time tracking, I saw I really was doing a ton of X. I felt validated. I was less emotional about the problem, and in the next week, I also gave myself freedom to delay or delegate many X tasks in pursuit of Y tasks. I&#8217;m working with my team to better manage X tasks and in the meantime, I&#8217;m more efficient and feel in control of them. I&nbsp;have irrefutable evidence about just how demanding X work is. As we try different solutions, we&#8217;ll also know exactly how much they help.</div>
+<p />
+<div><strong><span style="font-size: medium;">Good data (tracking time as you go) is extremely important.</span></strong></div>
+<div>
+<ul>
+</ul>
+</div>
+<div style="padding-left: 30px;">Your planning estimates and guesses afterward will always be wrong, and good data is fundamental to any data-driven decision making. If you think you&#8217;re good at these estimates, test yourself. Then email me how hilariously wrong you were, and we&#8217;ll chuckle.</div>
+<div>
+<p />
+<p />
+<div><span style="font-size: medium;"><strong>Tracking time increases focus and limits context switching.</strong></span></div>
+<div>
+<ul>
+</ul>
+</div>
+<div style="padding-left: 30px;">Tracking your time makes you more aware of what you&#8217;re specifically trying to accomplish, so you&#8217;re less likely to abandon one task for another.&nbsp;Maybe you only actually get to work 25 hours out of the 40 hours you&#8217;re at a work. If you need to track what you&#8217;re doing, you&#8217;ll feel compelled to make use of dead time you might have spent doing the worst kind of context switching - pretending to multitask.</div>
+</div>
+<p />
+<div><strong><span style="font-size: medium;">Time is your biggest asset. Knowing where it goes benefits you more than anyone else.</span></strong></div>
+<div>
+<ul>
+</ul>
+</div>
+<div style="padding-left: 30px;">I think a strong component of this experiment&#8217;s success has been that I&#8217;m doing it for myself. I have the freedom to show others the summary or the breakdown of my time if I&#8217;d like, but this isn&#8217;t a report that goes directly to my boss or determines my paycheck. I have the freedom to be completely honest. My priority is clean, accurate data and a true reflection of how I spend time, not convincing some other person that I&#8217;m working a lot.</div>
+<p />
+<p />
+<div>Overall, I&#8217;ve found time tracking incredibly helpful for my focus and in helping me determine which time investments are worthwhile. I&#8217;ve also noticed trends in behavior that I&#8217;ve discussed with coworkers so we can work together to boost productivity.</div>
+<p />
+<div>What methods do you use to get things done? How do gauge your own effectiveness? Do your methods work for both short and long-term improvement?</div>
+<p />
+<p />
+<div><span style="font-size: small; color: #808080;"><em>Notes:</em></span></div>
+<div><span style="font-size: small; color: #808080;"><em>One of the reasons I chose <a href="http://bit.ly/rBQs2s" title="Toggl.com">Toggl</a>&nbsp;was for their completely free basic features plan. Most other services were unpleasant to use, less functional, or only offered a 30-day free trial, which I knew from experience might not be enough time. Call me old-fashioned, but I just can&#8217;t commit to something in every aspect of my life when it&#8217;s&nbsp;guaranteed&nbsp;to dump me in a month.</em></span></div>
+</div>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Zone]]></title>
+    <link href="http://vanessahurst.com/blog/2011/04/24/the-zone/"/>
+    <updated>2011-04-24T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2011/04/24/the-zone</id>
+    <content type="html"><![CDATA[<p>Last Friday morning I woke up completely exhausted. Each previous day that week felt as if it shoud have been Friday, but disappointingly turned out to be just some anonymous middle-of-the-week day. I&#8217;m sure I don&#8217;t need to explain the intense psychological role the day Friday plays in our lives - we have <a href="http://www.youtube.com/watch?v=CD2LRROpph0" title="Rebecca Black - Friday" target="_blank">internet sensations</a>&nbsp;for that. But this Friday, instead of strolling into work late, taking extra long coffee breaks, catching up on blogs for hours, and mentally checking out right about lunchtime per the usual Friday routine in Corporate America - I did something different.</p>
+<p>I got in the zone. I layed out the design for a project I&#8217;d been interested in but slightly intimidated by. Though aware I probably didn&#8217;t have enough time to get through it, I dove in. I had one meeting and two phone conferences scheduled that encroached on my <a href="http://www.paulgraham.com/makersschedule.html" title="Paul Graham - Maker's Schedule" target="_blank">maker&#8217;s schedule</a> potential for the day, but I let my brain roam into the project anyway. I started with a brief work breakdown structure, gradually adding more detail as I reviewed the intermediate pieces all the way until I wrote the code as easily as I&#8217;d written the notes. Two meetings were postponed. By the time the third came around, I was in too deep.</p>
+<p>I didn&#8217;t eat lunch, I barely noticed the office puppy, and I didn&#8217;t even refill my water glass for several hours. I just created. I wrote code, I tested, I rewrote, I tested, I simplified. I kept the entire project - a horizontal data slice of our entire application - in my head and just executed, piece by piece, until I had something I could push together and deploy so that anyone could perform this magic with just one command. Every step of the way presented new obstacles - merge conflicts, unfamiliar deploy tools, arbitrary configs to update - but they didn&#8217;t phase me. I was in the zone. I eventually grabbed a few goldfish and a new water glass while waiting on a test data import, but the buzz from powering through this intimidating project stayed with me.</p>
+<p>I spend a lot of time dicussing the future of technology and especially diversity in technology for a variety of reasons - innovation, equality, national security, product quality to name a few. But it&#8217;s days like Friday, especially because it was Friday, that represent a more indulgent but also meaningful reason I hope people give technical careers a shot: passion.</p>
+<p>I have extreme passion for what I do. I can work as if my sore eyes and empty stomach and dry throat don&#8217;t even exist because I absolutely love what I&#8217;m doing. I can get wholly absorbed in something that helps other people (my team, our customers), that I get paid for, and that makes me a better and more capable problem solver. I have complete intellectual freedom, and I&#8217;ve been able to experiment enough to find challenges that both frustrate and satisfy me. Beyond the essentials of food and shelter, I wish nothing more for other humans than that they might find their own zone. That they might know what it feels like to immerse themselves in something so deeply and so fully that time flies. Perhaps coding isn&#8217;t that for many people. I certainly never would have guessed it would be for me. And yet, programming took me from a potentially miserable, rainy day to an enthusiastic, high-on-life adrenaline-infused night.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PG East 2011 & Defense Against the Dark Arts]]></title>
+    <link href="http://vanessahurst.com/blog/2011/03/26/pg-east-2011-defense-against-the-dark-arts/"/>
+    <updated>2011-03-26T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2011/03/26/pg-east-2011-defense-against-the-dark-arts</id>
+    <content type="html"><![CDATA[<p>This week, March 22-25, the PostgreSQL community (with guest appearances by MongoDB advocates &amp; users) came to NYC for PG East 2011. At the beginning of the week I wasn&#8217;t sure how to manage&nbsp;my jealousy of those headed to <a href="http://event.gigaom.com/bigdata/" title="Structure Big Data 2011" target="_blank">GigaOm&#8217;s Structure Big Data</a>&nbsp;(which, by the way, is at the same time and 5x more expensive), but I didn&#8217;t think twice about it while meeting and learning from members of the PG community. The days were a mix of talks and sharing war stories in the hallways, and the evenings included happy hours with the <a href="http://meetup.com/postgresql-3" title="NYC PostgreSQL Users Group" target="_blank">NY Postgres Users Group</a>&nbsp;(if you&#8217;re in NYC, join!) and&nbsp;<a href="http://paperlesspost.com" title="Paperless Post" target="_blank">Paperless Post</a>.</p>
+<p>I gave a talk that briefly addresses what an ORM (Object-Relational Mapper) is and how they are great for application development, but can be a headache for DBAs. Most of the talk focuses on key factors to consider in evaluating an ORM and in maintaining and scaling systems that use ORMs. The intended audience for the talk is:</p>
+<ul>
+<li>DBAs curious if ORMs might actually be the devil</li>
+<li>Startups or development shops without a data expert on hand</li>
+<li>Lone DBAs or small DBA teams that are seriously outnumbered by developers using ORMs</li>
+<li>Developers who want to understand more about ensuring applications create usable data</li>
+<li>Developers using ORMs who think the database might be a performance bottleneck</li>
+</ul>
+<p>Obviously the slides are never quite the same as a live talk, but I tried to make them somewhat independently valuable:</p>
+<div style=""><strong style="display: block; margin: 12px 0 4px;"><a href="http://www.slideshare.net/DBNess/defense-against-the-dark-arts-protecting-your-data-from-orms" title="Defense Against the Dark Arts: Protecting Your Data from ORMs">Defense Against the Dark Arts: Protecting Your Data from ORMs</a></strong> 
+<object height="355" width="425">
+<param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=defenseagainstthedarkarts-110323005018-phpapp01&amp;stripped_title=defense-against-the-dark-arts-protecting-your-data-from-orms&amp;userName=DBNess" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" /> <embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=defenseagainstthedarkarts-110323005018-phpapp01&amp;stripped_title=defense-against-the-dark-arts-protecting-your-data-from-orms&amp;userName=DBNess" type="application/x-shockwave-flash" height="355" width="425"></embed>
+</object>
+<div style="padding: 5px 0 12px;">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/DBNess">Vanessa Hurst</a></div>
+</div>
+
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SXSW 2011 Review]]></title>
+    <link href="http://vanessahurst.com/blog/2011/03/16/sxsw-2011-review/"/>
+    <updated>2011-03-16T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2011/03/16/sxsw-2011-review</id>
+    <content type="html"><![CDATA[<p>This year at South by Southwest Interactive, I</p>
+<p>Ate a five-course local dinner one table from Jake Gyllenhaal at delicious WINK restaurant. Despite the sketchy law offices, bail bonds for sale, dark alleys and many cops on our walk to the restaurant, I have no regrets about being a pedestrian anywhere for as long as possible. And JG is way more attractive in person than the movies (even my husband agrees).</p>
+<p>Met Marissa Mayer, talked about iterating a product quickly with analytics. Told her we had similar paths to programming and that I&#8217;m grateful she shared her story with the internets. After this my life was complete, so I fully indulged in not attending very many panels the rest of the week.</p>
+<p>Met Jane McGonigal, started reading her awesome book <a href="http://www.amazon.com/Reality-Broken-Games-Better-Change/dp/1594202850" title="Reality is Broken on Amazon" target="_blank">Reality is Broken</a> complete with Fiero autograph, and thanked her for yet another demonstration of how technology can change the world for the better. The book is changing my life already.</p>
+<p>Met the technical and talented team <a href="http://twitter.com/lindaliukas" title="Linda on Twitter" target="_blank">Linda</a> and <a href="http://twitter.com/karrisaarinen" title="Karri on Twitter" target="_blank">Karri</a> of <a href="http://railsgirls.com" title="Rails Girls" target="_blank">Rails Girls</a>, who host awesome Ruby on Rails workshops in Finland, commiserated, and hopefully shared some of what we&#8217;ve learned at Girl Develop It.</p>
+<p><span style="text-decoration: line-through;">Met </span>Accosted and introduced myself to Jennifer Lim, CEO of Delivering Happiness and original Zappos culture book writer. I forgot to tell her and Tony Hsieh that I reference the hierarchy of happiness on a regular basis and am so, so into them.</p>
+<p>Met awesome hackers of all sorts and learned some cool hacks at Hacker Underground, including how to leave commands out of your command line history and how to get even more food in your Chipotle burrito.</p>
+<p>Launched a startup of my very own, with Sara Chipps and Pamela Fox: <a href="http://stashyourstache.com">http://stashyourstache.com</a>.</p>
+<p>All in all, had an awesome week. Excited to be back in NYC and hoping our weather can compete with Austin sometime soon :).</p>
+<p>&nbsp;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Data in PostgreSQL]]></title>
+    <link href="http://vanessahurst.com/blog/2011/02/27/weekly-data-in-postgresql/"/>
+    <updated>2011-02-27T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2011/02/27/weekly-data-in-postgresql</id>
+    <content type="html"><![CDATA[<p>
+<div style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff; margin: 8px;">
+<p>Don&#8217;t base your week definitions on only part of your data. Create your own. &nbsp;A&nbsp;year = 52 Weeks + 1.25 Days. Clearly not perfect.</p>
+<p>Requirements:</p>
+<p>-Weeks must be standard period of time (7 days)<br />-Must have access to week start date for set-based comparisons<br />-Must have access to week end date for set-based comparisons<br />-Must be able to order weeks in chronological order<br />-Non-shitty performance</p>
+<p>Options:</p>
+<p>1) Dynamically generate weeks from base table of data (likely massive tracking table) using to_char(timestamp, &#8216;WW&#8217;) or to_char(timestamp,&#8217;IW&#8217;) to get Week or ISO Week of Year</p>
+<p>2) Import ISO Standard table of weeks (source?)</p>
+<p>3) Create MyWeeks (or general time periods) table and establish my own</p>
+<p>Though option 1 is widely accepted as a shortcut (and, granted, it&#8217;s pretty easy), let&#8217;s look at the potential problems it presents:</p>
+<p>-I fail to establish an independent, standard time frame over which to compare different data. All of my weekly data is then limited to the timeframe of the data set recorded in the monster table (e.g. if I based my weeks on a signup_tracking table then compared to events_tracking - I would miss events that happened during periods when no one signed up)</p>
+<p>-Perhaps I have a growing web application that doesn&#8217;t have a monster table of events quite yet</p>
+<p>-And/Or that that I know it would suck to run a distinct/group by to get the unique weeks from that monster table anyway</p>
+<p>Alas, as a righteous database programmer I must import from ISO (2) or create my own (3). Given that ISO means nothing to me and I can&#8217;t seem to find a prepared list of dates, the ISO option becomes writing my own function to record ISO dates (fun:<a href="http://en.wikipedia.org/wiki/Seven-day_week#Week_numbering" target="_blank">http://en.wikipedia.org/wiki/Seven-day_week#Week_numbering</a>).&nbsp;</p>
+<p>With options 2 and 3 demanding the same amount of effort, option 3 to create my own week structure seems the best bang for my buck. How to do this quickly in PostgreSQL?</p>
+<p>As follows:</p>
+<p>-Create table</p>
+<p>-Populate first row</p>
+<p>-Create function</p>
+<p>-Add rows as desired by running function</p>
+<p>How have you solved this problem?</p>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Founders at Work]]></title>
+    <link href="http://vanessahurst.com/blog/2011/02/27/founders-at-work/"/>
+    <updated>2011-02-27T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2011/02/27/founders-at-work</id>
+    <content type="html"><![CDATA[<div style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff; margin: 8px;">
+<p>So I finally got around to reading Jessica Livingston&#8217;s&nbsp;<em>Founders At Work:&nbsp;Stories of Startups&#8217; Early Days</em>. In trying to glean more from my reading (considering every third book I read is in the young adult or vampire genre, let&#8217;s be honest) - I&#8217;ve taken notes on the trends I noticed in these interviews.</p>
+<p />
+<div>Founders tend to have two different profiles- Product Pioneers and Business Beacons. I hope I come up with less corny names by the time I give this up to the interwebs. Founder teams don&#8217;t necessarily need one or the other, but they reflect two very different reasons people start businesses and doubtlessly affect why and how they succeed.</div>
+<p />
+<div><strong>Product / Push / Problem / Method</strong>: focused on a particular problem and/or particular solution, dedicated to fixing the problem and willing to make money on it/ willing to make a business in order to scale the solution</div>
+<div><strong>Business / Pull / Results</strong>: focused on addressing or creating a market, guiding a team to solve any problem that needs solving, making money wherever it is to be made, allowing customers to decide how the team&#8217;s resources should be spent and what&#8217;s worth making</div>
+<p />
+<div>Hypothesis: -some industries more flexible for pioneers</div>
+<div>-what makes a pioneer successful is a great idea, domain expertise, ability to focus &amp; build, great team member</div>
+<div>-what makes a business beacon successful is drive, customer development (link to Steve Blank&#8217;s blog), flexibility, and ability to drive a team</div>
+<p />
+<div><strong>PayPal</strong>&nbsp;- Max Levchin and Peter Thiel were both Business Beacons, though Max was gifted in crypto and started wanting to let those skills guide the business. They even got funding for a Palm Pilot beam-me-money-at-lunch concept and turned into a web-based transaction system after they realized that&#8217;s where the business was. They had certian ideas and talents, but ultimately they used them to fix the business problem at hand and followed their user base to build the business - they weren&#8217;t 100% product focused.</div>
+<p />
+<div><strong>Hotmail</strong>&nbsp;- Sabeer Bhatia and Jack Smith wanted to start a business together because they were tech savvy at the dawn of the internet and they were bored with their day jobs. So they obviously thought they were bringing something to the table, but the initial impulse that got them together and started was the boredom and the drive to contribute to the exciting new age of the internet. They started with a web-based document storage system called JavaSoft and kept the Hotmail concept under wraps for a while, but Bhatia always had an affinity for business models and really wanted to use his tech knowledge to solve everyone&#8217;s problem. Email was a great idea, but e-mail wasn&#8217;t Bhatia&#8217;s passion - a big internet business was.</div>
+<p />
+<div><strong>Apple</strong>&nbsp;- Steve Jobs and Steve Wozniak<br />Jobs routinely asked Wozniak to start a company each time the two had an idea - clearly a Business Beacon, he did the business development and basically took care of everything</div>
+<p />
+<div><strong>Excite&nbsp;</strong>- Joe Kraus and five Stanford classmates (Graham Spencer)</div>
+<div>Business Beacons:&nbsp;&#8220;We decided to start a company together before we had any idea what we were going to work on. But we were so committed to the idea of starting something together that we knew we were going to figure it out.&#8221;</div>
+<div>&#8220;I kind of determined &#8230; that my life wasn&#8217;t going to be about being in an office, working with people I didn&#8217;t want to work with and doing jobs I didn&#8217;t want to do.&#8221;</div>
+<div>Company slogan: &#8220;We are unencumbered by reality&#8221;</div>
+<div>&#8220;We came together to start a company before even knowing what that company was doing. We were more committed to the idea of starting something together and figuring it out than a bunch of people who were only personally interested in how much money they could make or what could be built around a particular idea.&#8221;</div>
+<p />
+<div><strong>Software Arts</strong>&nbsp;- Dan Bricklin and Bob Frankston</div>
+<div>Both had entrepreneur parents and felt starting a business was &#8220;a normal thing&#8221; that they&#8217;d certainly do once they found an idea. They got the idea talking to Personal Software salesperson who was looking for a financial calculation and checkbook tool.</div>
+<p />
+<div><strong>Lotus</strong>&nbsp;- Mitchell Kapor</div>
+<div>Mitch sought to be his own boss and to make money so he wouldn&#8217;t be dependent on anyone else, but he was really just a strong-willed and value-driven Product guy. He&nbsp;had an attitude at Personal Software so he wanted to build a culture that responded to how employees felt and at one point tied manager&#8217;s bonuses to how well they&nbsp;exemplified&nbsp;the core values.</div>
+<p />
+<div>&#8220;I actually wanted to be a software designer. I saw having a company not exactly as being a necessary evil, but there wasn&#8217;t a good alternative.&#8221;&nbsp;</div>
+<div>&#8220;While Lotus was getting started, I just saw it as a vehicle to doing great product. I never wanted to have a big company.&#8221;</div>
+<p />
+<div><strong>Iris Associates / Groove Networks</strong>&nbsp;- Ray Ozzie</div>
+<p />
+<p />
+<div><strong>Fog Creek Software</strong>&nbsp;- Joel Spolsky and Michael Pryor</div>
+<div>Joel wanted to start a software business about doing things the right way - they were more focused on the method than the particular problems they&#8217;d work to solve. Sounds like they&#8217;re both Product folks.</div>
+<p />
+<div><strong>SixApart</strong>&nbsp;- Mena and Ben Trott&nbsp;</div>
+<div>Mena was a blogger who wanted better blogging software and Steve helped her build that software. The fans and downloading and growth of the business was all a means to an end - solve the blogging problem in a great way, in a way that they and others like them could benefit. This is a clear Product (/Service if you will) focus - they weren&#8217;t looking to grow a business and in fact, were even uneasy about the whole thing even when they realized they should start looking for money.</div>
+<p />
+<div><strong>Facebook</strong>&nbsp;- Mark Zuckerburg</div>
+<div>Mark&#8217;s all product - built facebook in his dorm room and carved a niche in social networking that just wasn&#8217;t there before because he did it so well. The business idea was around (six degrees) but the implementation and organic growth were vital and not about someone&nbsp;desperate&nbsp;to make any business. Some might argue this motivation has changed over time with the success of the company, but certainly Product is what got it started.</div>
+</div>
+<p>&nbsp;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Alone in the Crowd]]></title>
+    <link href="http://vanessahurst.com/blog/2011/01/17/alone-in-the-crowd/"/>
+    <updated>2011-01-17T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2011/01/17/alone-in-the-crowd</id>
+    <content type="html"><![CDATA[<p>
+<div style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff; margin: 8px;">
+<p>Circling the airport, looking at the Manhattan skyline, coming home to New York City rocks. After I&#8217;ve landed and gotten my Auntie Anne&#8217;s high (don&#8217;t JFK and LGA always smell that intoxicating buttery pretzel scent?), I rebuff a car service salesperson and the long taxi line in favor of public transportation (one of my favorite things about this city). The train is the usual diverse blend - a Chinese couple with a small child, an angry drugdealer with expensive clothes and intimidating dreadlocks yelling in to his phone, and mid-way through Brooklyn a woman boards with tall, bright purple boots and a check-me-out outfit &#8230; and a hairnet. She proceeds to do her makeup for the next 3 stops, then fixes her hair for 2, and leaves a different person.&nbsp;<strong>That alone-in-the-crowd phenomenon is so powerful.</strong>&nbsp;I love that she felt that way. My father&#8217;s judgmental voice comes in and reminds me of experiments done on monkeys in large populations in tight spaces - they get aggressive and their behavior changes, too. I prefer to think of the city as the apex of Innovation. Without us all crowding in here, how would we effectively share our ideas and impressions. How would I see those phenomenal purple boots?</p>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TEDx 636 Eleventh Ave NYC]]></title>
+    <link href="http://vanessahurst.com/blog/2011/01/16/tedx-636-eleventh-ave-nyc/"/>
+    <updated>2011-01-16T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2011/01/16/tedx-636-eleventh-ave-nyc</id>
+    <content type="html"><![CDATA[<p>On December 7, 2010 I had the honor of speaking at a local TEDx event, TEDx 636 Eleventh Ave, organized around the TED Women conference in DC. I spoke briefly about my path to becoming a computer programmer. I wish I&#8217;d known earlier what incredible potential for impact careers in technology hold. I hope more women and men, young and old, throw away preconceptions and approach programming as a way of impacting humanity.</p>
+<p><object height="300" width="500"><param name="movie" value="http://www.youtube.com/v/FBayVlnaBw0?fs=1&amp;hl=en_US" /></param><param name="allowFullScreen" value="true" /></param><param name="allowscriptaccess" value="always" /></param><embed allowfullscreen="true" src="http://www.youtube.com/v/FBayVlnaBw0?fs=1&amp;hl=en_US" allowscriptaccess="always" type="application/x-shockwave-flash" height="300" width="500"></embed></object></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TED Women 2010 Reflection]]></title>
+    <link href="http://vanessahurst.com/blog/2011/01/10/ted-women-2010-reflection/"/>
+    <updated>2011-01-10T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2011/01/10/ted-women-2010-reflection</id>
+    <content type="html"><![CDATA[<p>During the national TED Women conference in December 2010, I was lucky to be in the good company of fellow live speakers and supporters at TEDx 636 Eleventh Ave in NYC. Every speaker makes themselves vulnerable giving a talk like that, particularly with no topic guidance and no particular requirements, and I have so much respect for every one who participated both locally and nationally. Among speakers and attendees at our TEDx event, everyone was willing to share real stories and honest moments that were positively invigorating. After our live speaker session ended, we watched the broadcast from DC.</p>
+<p>The first TEDWomen talk was from Hanna Rosin, the author of&nbsp;<a href="http://www.theatlantic.com/magazine/archive/2010/07/the-end-of-men/8135/" target="_blank">The End of Men</a>. She talked about the growth of women in higher education and highly skilled professional fields and how people at fertility clinics are requesting girls now when boys used to be the top choice for parents. She basically proposes that women are taking over the world and we should all acknowledge that and deal with it instead of being overwhelmed or otherwise victimized by the change.</p>
+<p>I couldn&#8217;t help but feel upset - maybe with certain pointed questions and carefully selected data the idea is plausible, but it&#8217;s just not reality in the world I live and work in. As a technologist, most of my friends, colleagues, and role models are men. I don&#8217;t like the idea of telling them to face up and prepare for domination. I see the charts she presents, but I know the charts that matter to my community - in brief, those that represent women studying computer science - are not climbing.&nbsp;<a href="http://blog.vanessahurst.com/women-in-tech-the-opportunity" target="_blank">They&#8217;re falling</a>. I can&#8217;t help but think her whole position undermines what I hope for by representing a reality totally different from ours. After a day of feeling pretty validated in my story and my goals, I felt defeated by the talk. It&#8217;s daunting to think that in some parts of society, women and men might think that nonsensical gender gaps have disappeared or are no longer worth addressing. It&#8217;s just so far from the truth out here in the field.</p>
+<p>I left the TEDx event both inspired and challenged, having met some truly <a href="http://www.youtube.com/watch?v=2iCdzZplu-Y" title="&quot;Good Morning&quot; by Emily May of Hollaback!" target="_blank">amazing</a> <a href="http://daretodream.typepad.com" title="Whitney Johnson's Dare to Dream Blog" target="_blank">people</a>. I&#8217;m resolved that whatever cultural theories might surface, there&#8217;s still a lot of progress to be made in inspiring young women and more young men&nbsp;toward&nbsp;technical careers and innovation.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Goodbye 2010]]></title>
+    <link href="http://vanessahurst.com/blog/2011/01/01/goodbye-2010/"/>
+    <updated>2011-01-01T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2011/01/01/goodbye-2010</id>
+    <content type="html"><![CDATA[<p>Dear 2010,</p>
+<p>You almost got me down with these health problems, but even so</p>
+<p>1) <a href="http://www.developersforgood.org">Developers for Good</a> has directly connected dozens of programmers with awesome volunteer opportunities in NYC,<br /> 2) <a href="http://www.hirelite.com">Hirelite</a> has placed dozens of software engineers with great jobs in NYC through efficient video interviews,<br /> 3)&nbsp;<a href="http://www.girldevelopit.org">Girl Develop It</a> has created a community of over 600 women, including 200+ students, who are psyched about software development,<br /> 4) <a href="http://xkcd.com/828">xkcd</a> helped me stay geeky and stay positive,<br /> and<br /> 5) I am going to change the world anyway.</p>
+<p>Bring it on, 2011!</p>
+]]></content>
+  </entry>
   
 </feed>

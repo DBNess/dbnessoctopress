@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Rails 3.2.6 & Foundation 3.1.1 Setup - Code for Humanity</title>
+  <title>Scouting for Open Source Software with WebFWD - Code for Humanity</title>
   <meta name="author" content="Vanessa Hurst">
 
   
-  <meta name="description" content="Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. I followed the &hellip;">
+  <meta name="description" content="Dearest Open Source Software, I know you&#8217;ve always been a bit worried about the future - no need to worry, you&#8217;ve got friends. Friends &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup">
+  <link rel="canonical" href="http://vanessahurst.com/scouting-for-open-source-software-with-webfwd">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Code for Humanity" type="application/atom+xml">
@@ -81,7 +81,7 @@
   
   <header>
     
-      <h1 class="entry-title">Rails 3.2.6 & Foundation 3.1.1 Setup</h1>
+      <h1 class="entry-title">Scouting for Open Source Software With WebFWD</h1>
     
     
       <p class="meta">
@@ -97,14 +97,24 @@
   
 
 
-<time datetime="2012-12-04T00:00:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2012</time>
+<time datetime="2012-10-08T00:00:00-04:00" pubdate data-updated="true">Oct 8<span>th</span>, 2012</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content">Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. <p /><div>I followed the documentation steps here: </div><div><a href="http://foundation.zurb.com/docs/gem-install.php" target="_blank">http://foundation.zurb.com/docs/gem-install.php</a> with a few modifications.</div> <p /><div><b>1. Use the newest gem</b>,<b> </b>so your Gemfile edit will actually show</div><div><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">gem</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;zurb-foundation&#39;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">,</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;~&gt; 3.1.1&#39;</span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0); font-family: arial; font-size: small; line-height: normal;">instead of</span></span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0);">gem</span><span style="color: rgb(0,0,0);"> </span><span>&#39;zurb-foundation&#39;</span><span style="color: rgb(0,0,0);">,</span><span style="color: rgb(0,0,0);"> </span><span>&#39;~&gt; 3.0.9&#39;</span></span></div> <p /><div>Even if you use the generators, you&#39;ll need a few changes from the &quot;Advanced&quot; section to get things rolling.</div><p /><div><b>2. Add </b><span style="font-weight: bold; font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">@import</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&quot;foundation&quot;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">; </span>to app/assets/stylesheets/application.css and<b> rename it to</b> app/assets/stylesheets/application<b>.scss</b></div> <p /><div><b>3. Verify </b><span style="background-color: rgb(249,249,249); color: rgb(153,153,136); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; font-style: italic; line-height: 18px;">//= require foundation</span><b> was appended to your application.js.</b></div> <p /><div><b>4. Call </b>$(document).foundationTopBar(); <b>twice</b></div><p /><div><b>5. (Optional)</b> <b>Organize your js</b> with <a href="https://github.com/nahurst/Basic-Javascript" target="_blank">https://github.com/nahurst/Basic-Javascript</a></div> <p /><div>Once you have a new repo with a fly nav bar, tweet me the link so I can check it out on my phone and marvel at the responsiveness!</div>
+<div class="entry-content"><p>Dearest Open Source Software,</p>
+<p>I know you&#8217;ve always been a bit worried about the future - no need to worry, you&#8217;ve got friends. Friends who love you and want you to be successful and sustainable. Among those friends are the crew at Mozilla&#8217;s Open Innovation Group - and this time they&#8217;ve put together something really exciting: the <a href="http://webfwd.org">WebFWD</a> accelerator.</p>
+<p><strong>WebFWD is an accelerator for businesses based on open innovation</strong>. The program is entirely remote and lasts 12 weeks with eight of intense education and four of focused product development. At the end of the program, companies may be eligible for <a href="https://webfwd.org/about/fund/">funding from Mozilla</a>.</p>
+<p>Curious what kinds of products and companies WebFWD crew has been working on so far? Here are the&nbsp;current WebFWD Teams:</p>
+<p style="padding-left: 30px;"><a href="http://codebender.cc/">Codebender</a>, aka hardware hacking made easy, <a href="http://twitter.com/codebender_cc">@codebender_cc</a><br /> <a href="http://harp.io/">Harp</a>, easy website deployment using Dropbox, <a href="http://twitter.com/harpplatform">@HarpPlatform</a><br /><a href="http://linklib.org/">Linklib</a>, open source video commentary library<br /> <a href="http://openjumpstarts.org/">Open Jumpstarts</a>, try a full web app with just one click, <a href="http://twitter.com/openjumpstarts">@OpenJumpstarts</a><br /><a href="http://sketchfab.com/">Sketchfab</a>, interactive 3D content publishing, <a href="http://twitter.com/sketchfab">@Sketchfab</a><br /> <a href="http://www.triv.io/">Trivio</a>, streamlined data wrangling<br /><a href="http://beta.wercker.com/">Wercker</a>, simplified continuous deployment, <a href="http://twitter.com/wercker">@wercker</a><p /></p>
+<p>And a few of my favorites from the many awesome WebFWD Alumni:</p>
+<p style="padding-left: 30px;"><a href="http://cashmusic.org/">CASHmusic</a>, Wordpress::Bloggers::CASHMusic::Musicians, <a href="http://twitter.com/cashmusic">@cashmusic</a><br /><a href="http://www.tomahawk-player.org/">Tomahawk</a>, a delightful open source iTunes replacement, <a href="http://twitter.com/tomahawk">@tomahawk</a><br /> <a href="http://www.propelly.com/">Propelly</a>, super simple sales of digital files, <a href="http://twitter.com/propelly">@propelly</a></p>
+<p>
+<p>Ready to turn your open source labor love into your main gig?&nbsp;<a href="http://webfwd.org/apply">Apply to WebFWD</a>!</p>
+</p>
+<p>If you have any questions about WebFWD (<a href="http://twitter.com/MozWebFWD">@MozWebFWD</a>), please feel free to <a href="mailto:vanessa@developersforgood.org">email me</a>&nbsp;or sign up for a conversation via <a href="http://ohours.org/dbness">Ohours</a>.</p>
 </div>
 
 
@@ -127,7 +137,7 @@
   
 
 
-<time datetime="2012-12-04T00:00:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2012</time>
+<time datetime="2012-10-08T00:00:00-04:00" pubdate data-updated="true">Oct 8<span>th</span>, 2012</time>
       
 
 
@@ -135,7 +145,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/" data-via="dbness" data-counturl="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://vanessahurst.com/scouting-for-open-source-software-with-webfwd" data-via="dbness" data-counturl="http://vanessahurst.com/scouting-for-open-source-software-with-webfwd" >Tweet</a>
   
   
   
@@ -146,10 +156,10 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/scouting-for-open-source-software-with-webfwd" title="Previous Post: Scouting for Open Source Software with WebFWD">&laquo; Scouting for Open Source Software with WebFWD</a>
+        <a class="basic-alignment left" href="/finding-that-special-someone-a-mentor-mentee" title="Previous Post: That Special Someone (A Mentor / Mentee)">&laquo; That Special Someone (A Mentor / Mentee)</a>
       
       
-        <a class="basic-alignment right" href="/thinkup-setup-get-better-at-coding-and-social" title="Next Post: ThinkUp Setup: Get better at coding AND social networking">ThinkUp Setup: Get better at coding AND social networking &raquo;</a>
+        <a class="basic-alignment right" href="/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/" title="Next Post: Rails 3.2.6 & Foundation 3.1.1 Setup">Rails 3.2.6 & Foundation 3.1.1 Setup &raquo;</a>
       
     </p>
   </footer>

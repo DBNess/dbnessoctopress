@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Rails 3.2.6 & Foundation 3.1.1 Setup - Code for Humanity</title>
+  <title>PG East 2011 & Defense Against the Dark Arts - Code for Humanity</title>
   <meta name="author" content="Vanessa Hurst">
 
   
-  <meta name="description" content="Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. I followed the &hellip;">
+  <meta name="description" content="This week, March 22-25, the PostgreSQL community (with guest appearances by MongoDB advocates &amp; users) came to NYC for PG East 2011. At the &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup">
+  <link rel="canonical" href="http://vanessahurst.com/pg-east-2011-defense-against-the-dark-arts">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Code for Humanity" type="application/atom+xml">
@@ -81,7 +81,7 @@
   
   <header>
     
-      <h1 class="entry-title">Rails 3.2.6 & Foundation 3.1.1 Setup</h1>
+      <h1 class="entry-title">PG East 2011 & Defense Against the Dark Arts</h1>
     
     
       <p class="meta">
@@ -97,14 +97,35 @@
   
 
 
-<time datetime="2012-12-04T00:00:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2012</time>
+<time datetime="2011-03-26T00:00:00-04:00" pubdate data-updated="true">Mar 26<span>th</span>, 2011</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content">Setting up a brand new Rails repo with the newest Foundation framework for beautiful, responsive design was a little wonky. <p /><div>I followed the documentation steps here: </div><div><a href="http://foundation.zurb.com/docs/gem-install.php" target="_blank">http://foundation.zurb.com/docs/gem-install.php</a> with a few modifications.</div> <p /><div><b>1. Use the newest gem</b>,<b> </b>so your Gemfile edit will actually show</div><div><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">gem</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;zurb-foundation&#39;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">,</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&#39;~&gt; 3.1.1&#39;</span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0); font-family: arial; font-size: small; line-height: normal;">instead of</span></span></div> <div><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"><span style="color: rgb(0,0,0);">gem</span><span style="color: rgb(0,0,0);"> </span><span>&#39;zurb-foundation&#39;</span><span style="color: rgb(0,0,0);">,</span><span style="color: rgb(0,0,0);"> </span><span>&#39;~&gt; 3.0.9&#39;</span></span></div> <p /><div>Even if you use the generators, you&#39;ll need a few changes from the &quot;Advanced&quot; section to get things rolling.</div><p /><div><b>2. Add </b><span style="font-weight: bold; font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">@import</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);"> </span><span style="color: rgb(221,17,68); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">&quot;foundation&quot;</span><span style="font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; line-height: 18px; background-color: rgb(249,249,249);">; </span>to app/assets/stylesheets/application.css and<b> rename it to</b> app/assets/stylesheets/application<b>.scss</b></div> <p /><div><b>3. Verify </b><span style="background-color: rgb(249,249,249); color: rgb(153,153,136); font-family: Bitstream Vera Sans Mono,Courier,monospace; font-size: 14px; font-style: italic; line-height: 18px;">//= require foundation</span><b> was appended to your application.js.</b></div> <p /><div><b>4. Call </b>$(document).foundationTopBar(); <b>twice</b></div><p /><div><b>5. (Optional)</b> <b>Organize your js</b> with <a href="https://github.com/nahurst/Basic-Javascript" target="_blank">https://github.com/nahurst/Basic-Javascript</a></div> <p /><div>Once you have a new repo with a fly nav bar, tweet me the link so I can check it out on my phone and marvel at the responsiveness!</div>
+<div class="entry-content"><p>This week, March 22-25, the PostgreSQL community (with guest appearances by MongoDB advocates &amp; users) came to NYC for PG East 2011. At the beginning of the week I wasn&#8217;t sure how to manage&nbsp;my jealousy of those headed to <a href="http://event.gigaom.com/bigdata/" title="Structure Big Data 2011" target="_blank">GigaOm&#8217;s Structure Big Data</a>&nbsp;(which, by the way, is at the same time and 5x more expensive), but I didn&#8217;t think twice about it while meeting and learning from members of the PG community. The days were a mix of talks and sharing war stories in the hallways, and the evenings included happy hours with the <a href="http://meetup.com/postgresql-3" title="NYC PostgreSQL Users Group" target="_blank">NY Postgres Users Group</a>&nbsp;(if you&#8217;re in NYC, join!) and&nbsp;<a href="http://paperlesspost.com" title="Paperless Post" target="_blank">Paperless Post</a>.</p>
+<p>I gave a talk that briefly addresses what an ORM (Object-Relational Mapper) is and how they are great for application development, but can be a headache for DBAs. Most of the talk focuses on key factors to consider in evaluating an ORM and in maintaining and scaling systems that use ORMs. The intended audience for the talk is:</p>
+<ul>
+<li>DBAs curious if ORMs might actually be the devil</li>
+<li>Startups or development shops without a data expert on hand</li>
+<li>Lone DBAs or small DBA teams that are seriously outnumbered by developers using ORMs</li>
+<li>Developers who want to understand more about ensuring applications create usable data</li>
+<li>Developers using ORMs who think the database might be a performance bottleneck</li>
+</ul>
+<p>Obviously the slides are never quite the same as a live talk, but I tried to make them somewhat independently valuable:</p>
+<div style=""><strong style="display: block; margin: 12px 0 4px;"><a href="http://www.slideshare.net/DBNess/defense-against-the-dark-arts-protecting-your-data-from-orms" title="Defense Against the Dark Arts: Protecting Your Data from ORMs">Defense Against the Dark Arts: Protecting Your Data from ORMs</a></strong> 
+<object height="355" width="425">
+<param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=defenseagainstthedarkarts-110323005018-phpapp01&amp;stripped_title=defense-against-the-dark-arts-protecting-your-data-from-orms&amp;userName=DBNess" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" /> <embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=defenseagainstthedarkarts-110323005018-phpapp01&amp;stripped_title=defense-against-the-dark-arts-protecting-your-data-from-orms&amp;userName=DBNess" type="application/x-shockwave-flash" height="355" width="425"></embed>
+</object>
+<div style="padding: 5px 0 12px;">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/DBNess">Vanessa Hurst</a></div>
+</div>
+
+
+
+
 </div>
 
 
@@ -127,7 +148,7 @@
   
 
 
-<time datetime="2012-12-04T00:00:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2012</time>
+<time datetime="2011-03-26T00:00:00-04:00" pubdate data-updated="true">Mar 26<span>th</span>, 2011</time>
       
 
 
@@ -135,7 +156,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/" data-via="dbness" data-counturl="http://vanessahurst.com/blog/2012/12/04/rails-3-2-6-foundation-3-1-1-setup/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://vanessahurst.com/pg-east-2011-defense-against-the-dark-arts" data-via="dbness" data-counturl="http://vanessahurst.com/pg-east-2011-defense-against-the-dark-arts" >Tweet</a>
   
   
   
@@ -146,10 +167,10 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/scouting-for-open-source-software-with-webfwd" title="Previous Post: Scouting for Open Source Software with WebFWD">&laquo; Scouting for Open Source Software with WebFWD</a>
+        <a class="basic-alignment left" href="/sxsw-2011-review" title="Previous Post: SXSW 2011 Review">&laquo; SXSW 2011 Review</a>
       
       
-        <a class="basic-alignment right" href="/thinkup-setup-get-better-at-coding-and-social" title="Next Post: ThinkUp Setup: Get better at coding AND social networking">ThinkUp Setup: Get better at coding AND social networking &raquo;</a>
+        <a class="basic-alignment right" href="/the-zone" title="Next Post: The Zone">The Zone &raquo;</a>
       
     </p>
   </footer>

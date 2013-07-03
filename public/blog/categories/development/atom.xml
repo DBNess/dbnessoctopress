@@ -1,17 +1,30 @@
----
-layout: post
-title: "Recipe for a Social Entrepreneur"
-date: 2013-06-24 00:07
-comments: true
-categories: recipes, software development, women in software, women in tech, computer programming, computer science, code, code.org
----
-<p>Yields 1 Technology-powered Social Entrepreneur<p>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: development, | Code for Humanity]]></title>
+  <link href="http://vanessahurst.com/blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://vanessahurst.com/"/>
+  <updated>2013-07-03T11:23:52-04:00</updated>
+  <id>http://vanessahurst.com/</id>
+  <author>
+    <name><![CDATA[Vanessa Hurst]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Recipe for a Social Entrepreneur]]></title>
+    <link href="http://vanessahurst.com/blog/2013/06/24/recipe-for-a-social-entrepreneur/"/>
+    <updated>2013-06-24T00:07:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2013/06/24/recipe-for-a-social-entrepreneur</id>
+    <content type="html"><![CDATA[<p>Yields 1 Technology-powered Social Entrepreneur<p>
 <h3>Ingredients:</h3>
 
 <ul style="list-style-type: none; text-indent: 40px;">
   <li>1 Girl Scout, pre-formed by </li>
   <ul style="list-style-type: none; text-indent: 40px;">
-  	  <li>1 U.S. Marine Corps Officer & Cultural Anthropologist</li>
+      <li>1 U.S. Marine Corps Officer & Cultural Anthropologist</li>
       <li>1 Book Fair Expert & Math Lover</li>
   </ul>
   <li>1 Promise to Make the World a Better Place</li>
@@ -41,3 +54,8 @@ categories: recipes, software development, women in software, women in tech, com
   <li>40 CodeMontage Open Source Social Impact Projects</li>
   <li>1 Social Entrepreneur, just getting started on changing the world</li>
 </ul>
+
+]]></content>
+  </entry>
+  
+</feed>

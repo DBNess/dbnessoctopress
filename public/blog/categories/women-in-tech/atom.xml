@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: women | Code for Humanity]]></title>
-  <link href="http://vanessahurst.com/blog/categories/women/atom.xml" rel="self"/>
+  <title><![CDATA[Category: women in tech | Code for Humanity]]></title>
+  <link href="http://vanessahurst.com/blog/categories/women-in-tech/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-07-03T11:23:52-04:00</updated>
+  <updated>2013-08-24T17:55:33-04:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -12,51 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Recipe for a Social Entrepreneur]]></title>
-    <link href="http://vanessahurst.com/blog/2013/06/24/recipe-for-a-social-entrepreneur/"/>
-    <updated>2013-06-24T00:07:00-04:00</updated>
-    <id>http://vanessahurst.com/blog/2013/06/24/recipe-for-a-social-entrepreneur</id>
-    <content type="html"><![CDATA[<p>Yields 1 Technology-powered Social Entrepreneur<p>
-<h3>Ingredients:</h3>
-
-<ul style="list-style-type: none; text-indent: 40px;">
-  <li>1 Girl Scout, pre-formed by </li>
-  <ul style="list-style-type: none; text-indent: 40px;">
-      <li>1 U.S. Marine Corps Officer & Cultural Anthropologist</li>
-      <li>1 Book Fair Expert & Math Lover</li>
-  </ul>
-  <li>1 Promise to Make the World a Better Place</li>
-  <li>5 U.S. States</li>
-  <li>9 Public Schools</li>
-  <li>10 Girl Scout Troops</li>
-  <li>1 Pre-med/Biomedical Engineering major</li>
-  <li>3 Credits Computer Science 101 class</li>
-  <li>1 Computer Science degree</li>
-  <li>100 TB Financial Data</li>
-</ul>
-
-<h3>Instructions:</h3>
-
-<p>Mix Girl Scout, Promise, and dreams of making the world a better place in each of 5 states, 9 public schools, and 10 scout troops. After 17 years, add Pre-med/Biomedical Engineering major and Computer Science 101 class to yield Computer Science major. Four years later, add Computer Science degree and see Girl Scout grow to New York City. Add 100 TB Financial Data to establish Database Administrator expertise. Let Promise to help people at all times simmer. Girl Scout will form <a href="http://developersforgood.org">Developers for Good</a> and connect 700+ technologists with social impact organizations.</p>
-
-<p>After years of being one of few women in the room, introduce Girl Scout to women who are interested in technology, but think it's too late to learn to code. Girl Scout will form <a href="http://girldevelopit.com">Girl Develop It</a> to teach low-cost, judgment-free software development courses. After three years of mixing, teaching, and organizing operations, Girl Develop It will expand to 16 chapters worldwide, over 4,000 students, and a community of 30,000 learners.</p>
-
-<p>As the U.S. Bureau of Labor & Statistics reports we'll have 1 million unfilled software jobs by 2018, mix Girl Scout with film producer of Waiting for Superman and other technical leaders to launch <a href="http://code.org">Code.org</a> film, "<a href="http://youtube.com/watch?feature=player_embedded&v=nKIu9yen5nc">What most schools don't teach</a>." Finally, as Developers for Good and Girl Develop It and Code.org evolve, Girl Scout will produce <a href="http://codemontage.com">CodeMontage</a> to help people become better software engineers while improving the world.</p>
-
-<h3>Results:</h3>
-
-<ul style="list-style-type: none; text-indent: 40px;">
-  <li>700 Developers for Good</li>
-  <li>30,000 Girl Develop It community members</li>
-  <li>16 million+ Code.org "What Most Schools Don't Teach" views</li>
-  <li>40 CodeMontage Open Source Social Impact Projects</li>
-  <li>1 Social Entrepreneur, just getting started on changing the world</li>
-</ul>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Recipe for a Social Entrepreneur]]></title>

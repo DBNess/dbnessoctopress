@@ -4,7 +4,7 @@
   <title><![CDATA[Category: coding | Code for Humanity]]></title>
   <link href="http://vanessahurst.com/blog/categories/coding/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-08-25T12:12:56-04:00</updated>
+  <updated>2013-08-25T13:05:05-04:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to Be a Better Engineer]]></title>
+    <link href="http://vanessahurst.com/blog/2013/08/23/how-to-become-a-better-engineer-the-muse-professional-development-guide/"/>
+    <updated>2013-08-23T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2013/08/23/how-to-become-a-better-engineer-the-muse-professional-development-guide</id>
+    <content type="html"><![CDATA[<p>Professional Development Guide on <a href="http://www.thedailymuse.com/toolsskills/the-ultimate-guide-to-professional-development-engineering/">How to Be a Better Engineer</a>, curated and published by <a href="http://themuse.com">The Muse</a>.</p>
+
+
+<p></p>
+
+<p>Engineering career advice by Ana Enders (<a href="http://twitter.com/AnaEnders">@AnaEnders</a>), Vanessa Hurst (<a href="http://twitter.com/DBNess">@DBNess</a>), Yusuf Simonson (<a href="http://twitter.com/YSimonson">@YSimonson</a>), and Zain Memon (<a href="http://twitter.com/Zainy">@Zainy</a>).</p>
+
+
+
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/25457750" width="597" height="448" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/TheDailyMuse/engineering-prof-dev-guide-final" title="The Ultimate Guide to Professional Development for Engineers" target="_blank">The Ultimate Guide to Professional Development for Engineers</a> </strong> from <strong><a href="http://www.slideshare.net/TheDailyMuse" target="_blank">The Muse</a></strong> </div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ThinkUp Setup: Get better at coding AND social networking]]></title>
@@ -49,6 +71,51 @@
 
 
 <p>Looking forward to seeing how this goes :)</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to get hired as a professional developer]]></title>
+    <link href="http://vanessahurst.com/blog/2012/12/07/how-to-get-hired-as-a-professional-developer/"/>
+    <updated>2012-12-07T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2012/12/07/how-to-get-hired-as-a-professional-developer</id>
+    <content type="html"><![CDATA[<p><em>What hiring managers look for in a candidate, and how you can show them what they want to see</em>. Originally published on <a href="http://skillcrush.com/2012/12/07/how-to-get-hired-as-a-professional-developer">Skillcrush</a>.</p>
+
+<div class="post-main-image">
+  <img src="http://skillcrush.com/wp-content/uploads/2012/12/developer.jpeg" />
+</div>
+
+
+
+
+<div class="entry-content">
+  </br>
+  <p>I’m going to come right out and say it &#8211; coders are better than superheroes. To me, software development is a magical, efficient way to improve the human experience. Thus, I’ve spent my professional life focused on software.</p>
+  <p>Most recently, I recruited software development instructors for <a href="http://girldevelopit.com/">Girl Develop It</a> and helped build the engineering team at <a href="http://paperlesspost.com/">Paperless Post</a>. Previously, I did college recruiting, hiring, and training for a financial data provider. I’m also an advisor to speed-dating-for-software-jobs startup <a href="http://hirelite.com/">Hirelite</a>. In total, I’ve met, recruited, resume-screened, phone-screened, skype-screened, and face-to-face interviewed hundreds of aspiring developers.</p>
+  <p>One of the best things you can do to get hired in any field is to think like a hiring manager. Make their job easy by presenting your background and skills in light of the job they’re hiring for. If they’re looking for an iOS developer, focus on your iOS projects, even if you’ve spent a lot of time doing other cool things. Your resume needn’t be a history of your entire life, nor include everything you know &#8211; it’s a chance to showcase that you can do the job, and a way to earn face time with the company.</p>
+  <p>You’re out to prove that you are relevant to the position, competent, and interesting enough that the hiring manager is excited to talk further. Being relevant and interesting are a matter of packaging and perspective &#8211; competent, however, takes a little bit more.</p>
+  <p>Here are five signs of competence great hiring managers look for:</p>
+  <p><strong>1. Are you smart?</strong><br />
+  Okay, obviously everyone wants to work with smart people. The best hiring managers are, to boot, looking for someone smarter than they are. The idea that software engineering is a matter of straightforward implementation (often compared to building construction) is a myth. Software is intricate and hard and requires smart, conscientious craftspeople to bring it to life.</p>
+  <p>Show you are smart by getting the details right (e.g. fix typos in your resume, keep track of information you’re given during the interview process). Smart is the convergence of intelligence and behavior &#8211; you can be a genius, but if you can’t focus long enough to tell me about your breakthroughs, you’re not acting smart. At the resume stage, good grades and good schools can be proxies for smartness, so feel free to add them, but don’t worry if they don’t represent you at your best &#8211; find what does, and showcase that.</p>
+  <p><strong>2. Do you get things done?</strong><br />
+  As Joel Spolsky put it, <a href="http://www.joelonsoftware.com/items/2007/06/05.html">“People who are smart but don’t get things done&#8230;would rather mull over something academic about a problem rather than ship on time.”</a> The need to get things done is the reason &#8211; really, the only reason &#8211; we’re hiring. Getting things done is a must.</p>
+  <p>Show you have a track record of accomplishing things &#8211; regardless of whether they’re even code-related. What have you shipped? When have you demonstrated leadership? Remember that some of the best leadership is demonstrated without authority. A willingness to make a path where there isn’t one, to solve a problem and hop <a href="http://www.theodore-roosevelt.com/trsorbonnespeech.html">in the arena</a>, to not always wait for permission before beginning important work, is extremely valuable. If you get things done, shout it from the rooftops! <em>We want to hire you.</em></p>
+  <p><strong>3. Do you solve “hard” problems?</strong><br />
+  Learning to code is no small feat, but software developers are responsible for more than just writing code. “Hard” in this case describes problems that have no clear solution and haven’t been solved before. Coding your own blog from scratch is not a hard problem in this sense &#8211; it has been done before and there’s plenty of documentation to explain how to do it again. It’s a worthy learning exercise, but it’s just not the same as a real-live project with unpredictable requirements, unanticipated technology incompatibilities, stakeholder meltdowns, warts, and all.</p>
+  <p>Show you’ve worked outside the box and still succeeded. The best way to do this is to build or improve an open-source software application that has users and stakeholders. <a href="http://github.com/">Github</a> is a great way to showcase this kind of work, and captures your work with other people far better than private code samples can. The next best way is to showcase the technical problems you have solved, no matter how hard, and also the hard problems you have solved, regardless of how technical.</p>
+  <p>Wrote a short custom script that saves you and coworkers a few hours a month? Ran a large conference? Started an event series? Researched for a thesis? <em>We want to hire you.</em></p>
+  <p><strong>4. Can you explain your solution?</strong><br />
+  “Communication skills” does not mean “is able to speak.” It means “can say something important in a way that others digest.” The most valuable team members are the ones who not only get things done well, but who expand their impact by communicating what they did to the rest of the team. Developers who share lessons learned, teach others, and document how and why they make decisions are much more valuable (and often more enjoyable to work with) than those who work in a vacuum.</p>
+  <p>Show your blog, the documentation you’ve written, articles you’ve published, talks you’ve given, even your twitter stream &#8211; anything that shows you’re sharing what you’ve learned with others. Your blog can be a simple as “I tried to install the Heroku gem on Ruby 1.9.3 and it broke, so I switched back to Ruby 1.9.2 and it worked like a charm” and some one else on the Internet will feel less lonely when they experience the same thing. The only thing worse than an unsolved problem is a problem solved by a person who can’t tell you how the solution works. Show us that you won’t be that person. <em>We want to hire you.</em></p>
+  <p><strong>5. Are you passionate?</strong><br />
+  Great developers must be passionate to make and/or change things. Even the best corporate incentive structure can’t replace a person who, upon seeing a problem, is naturally compelled to fix it. This is the engineer’s equivalent of scientific curiosity, and it manifests in all sorts of ways. For example, making movies counts, watching movies does not, creating or mixing music counts, attending concerts does not. In startups especially, everything is some shade of broken. There’s just no room for people who don’t improve without being told to do so.</p>
+  <p>Show whatever you’re passionate about. Get involved with communities and projects that address what makes you angry, or promote what makes you happy. Attend developer meetups and hackathons when you can, and engage with online communities if those don’t fit your schedule. Your passion doesn’t have to be coding itself &#8211; it can be better communication, education, healthcare, banking &#8211; whatever you feel called to fix in the world. Showing that you’re driven by something other than your manager showing up at your desk every few hours is powerful. <em>We want to hire you.</em></p>
+  <p><strong>This all sounds great, but I am just a beginning developer. Where can I find hard problems to solve?</strong><br />
+  In my experience recruiting developers and training beginners, I’ve found that solving hard problems has been by far the most difficult trait to find in aspiring developers, especially early in their software careers. I founded <a href="http://codemontage.com/">CodeMontage</a> to fix this problem, by helping developers get meaningful experience through contributions to open source, social good projects. We help coders find projects with causes and technologies they care about, challenges that build their skills and move the project forward, and code reviews and feedback on the quality and structure of their code.</p>
+  <p>CodeMontage is how coders improve their skills while improving the world. If you have dabbled in some online or offline coding classes, but now need to build up a portfolio of hard problems that you’ve successfully solved, <a href="http://codemontage.com/">join us</a>.</p>
+</div>
 
 ]]></content>
   </entry>
@@ -96,42 +163,6 @@
 </div>
 
 
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TEDx 636 Eleventh Ave NYC]]></title>
-    <link href="http://vanessahurst.com/tedx-636-eleventh-ave-nyc-coding-for-humanity"/>
-    <updated>2011-01-16T00:00:00-05:00</updated>
-    <id>http://vanessahurst.com/tedx-636-eleventh-ave-nyc</id>
-    <content type="html"><![CDATA[<p>On December 7, 2010 I had the honor of speaking at a local TEDx event, TEDx 636 Eleventh Ave, organized around the TED Women conference in DC. I spoke briefly about my path to becoming a computer programmer. I wish I'd known earlier what incredible potential for impact careers in technology hold. I hope more women and men, young and old, throw away preconceptions and approach programming as a way of impacting humanity.</p>
-
-
-<p><object height="300" width="500"><param name="movie" value="http://www.youtube.com/v/FBayVlnaBw0?fs=1&amp;hl=en_US" /></param><param name="allowFullScreen" value="true" /></param><param name="allowscriptaccess" value="always" /></param><embed allowfullscreen="true" src="http://www.youtube.com/v/FBayVlnaBw0?fs=1&amp;hl=en_US" allowscriptaccess="always" type="application/x-shockwave-flash" height="300" width="500"></embed></object></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Women in Tech: The Opportunity]]></title>
-    <link href="http://vanessahurst.com/women-in-tech-the-opportunity"/>
-    <updated>2010-10-26T00:00:00-04:00</updated>
-    <id>http://vanessahurst.com/women-in-tech-the-opportunity</id>
-    <content type="html"><![CDATA[<div><span style=""> </span>In the United States, STEM (Science, Technology, Engineering, and Math) fields are hurting. You know you've got a problem when even the government is trying to solve it (as shown by the White House's&nbsp;<a href="http://www.whitehouse.gov/issues/education/educate-innovate" target="_blank">Educate to Innovate</a>&nbsp;initiative&nbsp;(<a href="http://www.whitehouse.gov/the-press-office/president-obama-launches-educate-innovate-campaign-excellence-science-technology-en" target="_blank">Nov. 2009</a>)&nbsp;and private-sector CEO engagement in&nbsp;<a href="http://www.changetheequation.org/" target="_blank">Change The Equation</a>&nbsp;(<a href="http://news.thomasnet.com/IMT/archives/2010/09/inside-change-the-equation-stem-education-initiative.html" target="_blank">Sept. 2010</a>)). Raw data clearly shows that the US awards a significantly smaller portion of science and engineering bachelor's degrees than the majority of reporting countries (<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_414.asp" target="_blank">NCES</a>). Within that already meek representation, computer science stands out as a dearth among dearths.</div>
-
-
-<p />
-<div>So techies are awesome, but we aren't training nearly enough of them. Where could we possibly find more potential programmers??</div>
-<p />
-<div>The New York Times offers a classic&nbsp;<a href="http://www.nytimes.com/imagepages/2007/04/17/science/20070417_COMP_GRAPHIC.html" target="_blank">visualization of the CS gender gap</a>:</div>
-<br />
-<div><img src="http://graphics8.nytimes.com/images/2007/04/17/science/20070417_COMP_GRAPHIC.gif"></div>
-<div>This visualization shows data through 2004. It has only gotten worse since then.&nbsp;In the US in 2008,&nbsp;<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_268.asp" target="_blank">57%</a>&nbsp;of all&nbsp;bachelor's degree recipients were female, but only&nbsp;<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_303.asp" target="_blank">17%</a>&nbsp;of bachelor's degrees in computer and information sciences were awarded to women.&nbsp;Oops. Looks like we found our missing programmers!</div>
-<p />
-<div>There are certainly plenty of underrepresented groups in computer science, but the male/female gap is by far the most severe and spans a variety of racial and socioeconomic groups, so it makes sense to address as a distinct priority.</div>
-<p />
-<div>As recent as a few weeks ago, a dedicated&nbsp;<a href="http://techcrunch.com/2010/09/28/girls-in-blech/" target="_blank">Women In Tech panel at TechCrunch Disrupt</a>&nbsp;established that everyone knows women are underrepresented in tech (especially tech startups), but left viewers wanting when it came to solutions. A few panel members noted that what we could really use is more women studying computer science or learning to program. I wholeheartedly agree.</div>
 
 ]]></content>
   </entry>

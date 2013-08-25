@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: open source | Code for Humanity]]></title>
+  <link href="http://vanessahurst.com/blog/categories/open-source/atom.xml" rel="self"/>
+  <link href="http://vanessahurst.com/"/>
+  <updated>2013-08-25T11:40:06-04:00</updated>
+  <id>http://vanessahurst.com/</id>
+  <author>
+    <name><![CDATA[Vanessa Hurst]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ThinkUp Setup: Get better at coding AND social networking]]></title>
+    <link href="http://vanessahurst.com/thinkup-setup-get-better-at-coding-and-social-networking"/>
+    <updated>2013-01-04T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/thinkup-setup-get-better-at-coding-and-social-networking</id>
+    <content type="html"><![CDATA[<p>In typical developer style, I just spent several hours hacking on something only to find a totally different way to accomplish the same thing in about ten minutes.</p>
+
+
+<p>The short version of setting up ThinkUp app was pretty phenomenally easy:</p>
+
+
+<ol>
+<li>Create a free account with a free plan on <a href="http://appfog.com" title="AppFog" target="_blank">AppFog</a></li>
+<li>Use Launcher.io's <a href="https://launcher.io/ThinkUp" title="Launcher.io ThinkUp" target="_blank">ThinkUp Jumpstart one-click install</a> (golden!) to deploy to AppFog</li>
+<li>Upgrade ThinkUp as prompted in your navigation bar</li>
+<li>Update Settings &gt; Account &gt; Enable beta upgrades so you can get the <a href="http://blog.thinkup.com/post/39497204010/thinkup-2-0-getting-better" title="Thinkup 2.0 Beta" target="_blank">snazzy 2.0 beta</a></li>
+<li>Upgrade ThinkUp as prompted in your navigation bar (again)</li>
+<li>Add social media accounts in the plugins section</li>
+<li>Clear your browser's cache</li>
+<li>Rock and roll</li>
+</ol>
+
+
+<p>I'm intrigued by ThinkUp for a few reasons:</p>
+
+
+<ol>
+<li>It's <a href="http://github.com/ginatrapani/thinkup" title="Think Up" target="_blank">open source</a>!</li>
+<li>It has a <a href="https://groups.google.com/forum/?fromgroups#!forum/thinkupapp" title="ThinkUp community" target="_blank">community that first identifies itself as friendly</a></li>
+<li>It has analytics! based on data!</li>
+<li>Its core codebase was written by one of my favorite developer-founders, <a href="http://ginatrapani.org/" title="Gina Trapani" target="_blank">Gina Trapani</a></li>
+<li><a href="http://dashes.com" title="Anil Dash" target="_blank">Anil Dash</a>,&nbsp;Gina's co-founder,&nbsp;is one of the best twitter users I know (seriously, did you see <a href="http://twitter.com/anildash/status/275055322102636544" title="High Five Fist Bump" target="_blank">this tweet</a>?)</li>
+</ol>
+
+
+<p>Looking forward to seeing how this goes :)</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scouting for Open Source Software with WebFWD]]></title>
+    <link href="http://vanessahurst.com/scouting-for-open-source-software-with-webfwd"/>
+    <updated>2012-10-08T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/scouting-for-open-source-software-with-webfwd</id>
+    <content type="html"><![CDATA[<p>Dearest Open Source Software,</p>
+
+
+<p>I know you've always been a bit worried about the future - no need to worry, you've got friends. Friends who love you and want you to be successful and sustainable. Among those friends are the crew at Mozilla's Open Innovation Group - and this time they've put together something really exciting: the <a href="http://webfwd.org">WebFWD</a> accelerator.</p>
+
+
+<p><strong>WebFWD is an accelerator for businesses based on open innovation</strong>. The program is entirely remote and lasts 12 weeks with eight of intense education and four of focused product development. At the end of the program, companies may be eligible for <a href="https://webfwd.org/about/fund/">funding from Mozilla</a>.</p>
+
+
+<p>Curious what kinds of products and companies WebFWD crew has been working on so far? Here are the&nbsp;current WebFWD Teams:</p>
+
+
+<p style="padding-left: 30px;"><a href="http://codebender.cc/">Codebender</a>, aka hardware hacking made easy, <a href="http://twitter.com/codebender_cc">@codebender_cc</a><br /> <a href="http://harp.io/">Harp</a>, easy website deployment using Dropbox, <a href="http://twitter.com/harpplatform">@HarpPlatform</a><br /><a href="http://linklib.org/">Linklib</a>, open source video commentary library<br /> <a href="http://openjumpstarts.org/">Open Jumpstarts</a>, try a full web app with just one click, <a href="http://twitter.com/openjumpstarts">@OpenJumpstarts</a><br /><a href="http://sketchfab.com/">Sketchfab</a>, interactive 3D content publishing, <a href="http://twitter.com/sketchfab">@Sketchfab</a><br /> <a href="http://www.triv.io/">Trivio</a>, streamlined data wrangling<br /><a href="http://beta.wercker.com/">Wercker</a>, simplified continuous deployment, <a href="http://twitter.com/wercker">@wercker</a><p /></p>
+<p>And a few of my favorites from the many awesome WebFWD Alumni:</p>
+<p style="padding-left: 30px;"><a href="http://cashmusic.org/">CASHmusic</a>, Wordpress::Bloggers::CASHMusic::Musicians, <a href="http://twitter.com/cashmusic">@cashmusic</a><br /><a href="http://www.tomahawk-player.org/">Tomahawk</a>, a delightful open source iTunes replacement, <a href="http://twitter.com/tomahawk">@tomahawk</a><br /> <a href="http://www.propelly.com/">Propelly</a>, super simple sales of digital files, <a href="http://twitter.com/propelly">@propelly</a></p>
+<p>
+<p>Ready to turn your open source labor love into your main gig?&nbsp;<a href="http://webfwd.org/apply">Apply to WebFWD</a>!</p>
+</p>
+<p>If you have any questions about WebFWD (<a href="http://twitter.com/MozWebFWD">@MozWebFWD</a>), please feel free to <a href="mailto:vanessa@developersforgood.org">email me</a>&nbsp;or sign up for a conversation via <a href="http://ohours.org/dbness">Ohours</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby Heroes, Open Source, and Hacking to Prevent Human Trafficking]]></title>
+    <link href="http://vanessahurst.com/ruby-heroes-open-source-and-hacking-to-prevent-trafficking"/>
+    <updated>2012-05-09T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/ruby-heroes-open-source-and-hacking-to-prevent-human-trafficking</id>
+    <content type="html"><![CDATA[<p>First and foremost, Congratulations to&nbsp;<a href="http://twitter.com/yokolet">Yoko Harada</a>, one of this year's&nbsp;<a href="http://rubyheroes.com/">Ruby Heroes</a>! She's made substantial contributions to the Ruby community, specifically for her work on open source projects&nbsp;<a href="http://jruby.org/">JRuby</a>&nbsp;and&nbsp;<a href="http://nokogiri.org">Nokogiri</a>. Yoko inspired me to share an example of one of many projects that were possible thanks to free and open source software, and specifically Nokogiri.<p />In July 2011, Girl Develop It hosted a Hackathon for Humanity (in the Hamptons thanks to&nbsp;<a href="http://twitter.com/dbdj1007">Deborah Jackson</a>&nbsp;&amp;&nbsp;<a href="http://jumpthru.net/">JumpThru</a>!),&nbsp;<a href="http://twitter.com/nahurst">Nathan Hurst</a>&nbsp;and I used Nokogiri to parse data from&nbsp;<a href="http://backpage.com/">Backpage.com</a>&nbsp;and flag potential evidence of human trafficking. We used <a href="http://www.gnu.org/software/wget/">wget</a> to pull the posts and Nokogiri to parse the data into a&nbsp;<a href="http://rubyonrails.org/">Rails</a>&nbsp;application and&nbsp;<a href="http://postgresql.org/">Postgres</a>&nbsp;database, which I then queried to identify potential child prostitution advertisements. We were able to flag hundreds to be investigated and removed by&nbsp;<a href="http://backpage.com/">Backpage.com</a>.<p />The project readme file expands a bit on our methodology- basically, we'd read that many human trafficking rings tend to diversify their crime businesses by engaging in many types of trafficking and other illegal activity, so we cross-referenced some of the phone numbers across different subject areas on the site. We found dozens of posts that once examined by the human eye were clearly not legal, and hardly any false positives. This method proved quite accurate and a lot more manageable than manually sorting through all of the posts.<p />We definitely wouldn't have pulled that off, especially not in a weekend hackathon, without Nokogiri being free, open source, and delightfully easy to use.<p />The project is on Github at&nbsp;<a href="https://github.com/girldevelopit/traffic-report">https://github.com/girldevelopit/traffic-report</a>. Note that this is the code from a one-time weekend project, but if you're interested in forking or just learning from it and building a service to continue this work, please do! We're happy to share any undocumented lessons or answer questions, just reach out by email (<a href="mailto:nathan@ohours.org">nathan@ohours.org</a> or <a href="mailto:vanessa@developersforgood.org">vanessa@developersforgood.org</a>).<p /></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PG East 2011 & Defense Against the Dark Arts]]></title>
+    <link href="http://vanessahurst.com/pg-east-2011-defense-against-the-dark-arts"/>
+    <updated>2011-03-26T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/pg-east-2011-defense-against-the-dark-arts</id>
+    <content type="html"><![CDATA[<p>This week, March 22-25, the PostgreSQL community (with guest appearances by MongoDB advocates &amp; users) came to NYC for PG East 2011. At the beginning of the week I wasn't sure how to manage&nbsp;my jealousy of those headed to <a href="http://event.gigaom.com/bigdata/" title="Structure Big Data 2011" target="_blank">GigaOm's Structure Big Data</a>&nbsp;(which, by the way, is at the same time and 5x more expensive), but I didn't think twice about it while meeting and learning from members of the PG community. The days were a mix of talks and sharing war stories in the hallways, and the evenings included happy hours with the <a href="http://meetup.com/postgresql-3" title="NYC PostgreSQL Users Group" target="_blank">NY Postgres Users Group</a>&nbsp;(if you're in NYC, join!) and&nbsp;<a href="http://paperlesspost.com" title="Paperless Post" target="_blank">Paperless Post</a>.</p>
+
+
+<p>I gave a talk that briefly addresses what an ORM (Object-Relational Mapper) is and how they are great for application development, but can be a headache for DBAs. Most of the talk focuses on key factors to consider in evaluating an ORM and in maintaining and scaling systems that use ORMs. The intended audience for the talk is:</p>
+
+
+<ul>
+<li>DBAs curious if ORMs might actually be the devil</li>
+<li>Startups or development shops without a data expert on hand</li>
+<li>Lone DBAs or small DBA teams that are seriously outnumbered by developers using ORMs</li>
+<li>Developers who want to understand more about ensuring applications create usable data</li>
+<li>Developers using ORMs who think the database might be a performance bottleneck</li>
+</ul>
+
+
+<p>Obviously the slides are never quite the same as a live talk, but I tried to make them somewhat independently valuable:</p>
+
+
+<div style=""><strong style="display: block; margin: 12px 0 4px;"><a href="http://www.slideshare.net/DBNess/defense-against-the-dark-arts-protecting-your-data-from-orms" title="Defense Against the Dark Arts: Protecting Your Data from ORMs">Defense Against the Dark Arts: Protecting Your Data from ORMs</a></strong> 
+<object height="355" width="425">
+<param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=defenseagainstthedarkarts-110323005018-phpapp01&amp;stripped_title=defense-against-the-dark-arts-protecting-your-data-from-orms&amp;userName=DBNess" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" /> <embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=defenseagainstthedarkarts-110323005018-phpapp01&amp;stripped_title=defense-against-the-dark-arts-protecting-your-data-from-orms&amp;userName=DBNess" type="application/x-shockwave-flash" height="355" width="425"></embed>
+</object>
+<div style="padding: 5px 0 12px;">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/DBNess">Vanessa Hurst</a></div>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

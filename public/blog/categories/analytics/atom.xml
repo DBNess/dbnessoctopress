@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: analytics | Code for Humanity]]></title>
+  <link href="http://vanessahurst.com/blog/categories/analytics/atom.xml" rel="self"/>
+  <link href="http://vanessahurst.com/"/>
+  <updated>2013-08-25T11:40:06-04:00</updated>
+  <id>http://vanessahurst.com/</id>
+  <author>
+    <name><![CDATA[Vanessa Hurst]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ThinkUp Setup: Get better at coding AND social networking]]></title>
+    <link href="http://vanessahurst.com/thinkup-setup-get-better-at-coding-and-social-networking"/>
+    <updated>2013-01-04T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/thinkup-setup-get-better-at-coding-and-social-networking</id>
+    <content type="html"><![CDATA[<p>In typical developer style, I just spent several hours hacking on something only to find a totally different way to accomplish the same thing in about ten minutes.</p>
+
+
+<p>The short version of setting up ThinkUp app was pretty phenomenally easy:</p>
+
+
+<ol>
+<li>Create a free account with a free plan on <a href="http://appfog.com" title="AppFog" target="_blank">AppFog</a></li>
+<li>Use Launcher.io's <a href="https://launcher.io/ThinkUp" title="Launcher.io ThinkUp" target="_blank">ThinkUp Jumpstart one-click install</a> (golden!) to deploy to AppFog</li>
+<li>Upgrade ThinkUp as prompted in your navigation bar</li>
+<li>Update Settings &gt; Account &gt; Enable beta upgrades so you can get the <a href="http://blog.thinkup.com/post/39497204010/thinkup-2-0-getting-better" title="Thinkup 2.0 Beta" target="_blank">snazzy 2.0 beta</a></li>
+<li>Upgrade ThinkUp as prompted in your navigation bar (again)</li>
+<li>Add social media accounts in the plugins section</li>
+<li>Clear your browser's cache</li>
+<li>Rock and roll</li>
+</ol>
+
+
+<p>I'm intrigued by ThinkUp for a few reasons:</p>
+
+
+<ol>
+<li>It's <a href="http://github.com/ginatrapani/thinkup" title="Think Up" target="_blank">open source</a>!</li>
+<li>It has a <a href="https://groups.google.com/forum/?fromgroups#!forum/thinkupapp" title="ThinkUp community" target="_blank">community that first identifies itself as friendly</a></li>
+<li>It has analytics! based on data!</li>
+<li>Its core codebase was written by one of my favorite developer-founders, <a href="http://ginatrapani.org/" title="Gina Trapani" target="_blank">Gina Trapani</a></li>
+<li><a href="http://dashes.com" title="Anil Dash" target="_blank">Anil Dash</a>,&nbsp;Gina's co-founder,&nbsp;is one of the best twitter users I know (seriously, did you see <a href="http://twitter.com/anildash/status/275055322102636544" title="High Five Fist Bump" target="_blank">this tweet</a>?)</li>
+</ol>
+
+
+<p>Looking forward to seeing how this goes :)</p>
+
+]]></content>
+  </entry>
+  
+</feed>

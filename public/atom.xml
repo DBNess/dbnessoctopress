@@ -4,7 +4,7 @@
   <title><![CDATA[Code for Humanity]]></title>
   <link href="http://vanessahurst.com/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-08-25T11:14:03-04:00</updated>
+  <updated>2013-08-25T11:40:06-04:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -207,16 +207,6 @@
 <p>The keys to mentoring are ultimately simple- be genuine, and share your experiences and your goals. Mentoring relationships come in all frequencies (weekly or a few times a year), mediums (video chat or brunch), and arenas (developing specific skills or seeking a promotion). It&#8217;s up to you to <a href="http://vanessahurst.com/finding-that-special-someone-a-mentor-mentee">find a great match</a> and get the most out of the relationship.</p>
 <p>Ready to mentor? Reach out to your communities and join the <a href="http://ohours.org/topics/mentoring" target="_blank"><span>mentoring</span></a> topic on <a href="http://ohours.org/mentoring" target="_blank"><span>Ohours</span></a>*, which has additional <a href="http://ohours.org/mentoring" target="_blank">tips for mentoring</a>.</p>
 <p>*Note: I&#8217;m an advisor and <span style="text-decoration: line-through;">obsessive</span> avid user of <a href="http://ohours.org/" target="_blank">Ohours</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Github Hacks]]></title>
-    <link href="http://vanessahurst.com/blog/2012/08/06/github-hacks/"/>
-    <updated>2012-08-06T00:00:00-04:00</updated>
-    <id>http://vanessahurst.com/blog/2012/08/06/github-hacks</id>
-    <content type="html"><![CDATA[<p>Most frequently used - view the Issues assigned to you across all repositories within an organization:</p>
-<p><a href="https://github.com/organizations/paperlesspost/dashboard/issues/assigned?direction=desc&amp;state=open">https://github.com/organizations/paperlesspost/dashboard/issues/assigned?dire&#8230;</a></p>
 ]]></content>
   </entry>
   

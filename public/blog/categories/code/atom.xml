@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code | Code for Humanity]]></title>
   <link href="http://vanessahurst.com/blog/categories/code/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-08-25T11:14:03-04:00</updated>
+  <updated>2013-08-25T11:40:06-04:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -14,46 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Recipe for a Social Entrepreneur]]></title>
-    <link href="http://vanessahurst.com/blog/2013/06/24/recipe-for-a-social-entrepreneur/"/>
-    <updated>2013-06-24T00:07:00-04:00</updated>
-    <id>http://vanessahurst.com/blog/2013/06/24/recipe-for-a-social-entrepreneur</id>
-    <content type="html"><![CDATA[<p>Yields 1 Technology-powered Social Entrepreneur<p>
-<h3>Ingredients:</h3>
-
-<ul style="list-style-type: none; text-indent: 40px;">
-  <li>1 Girl Scout, pre-formed by </li>
-  <ul style="list-style-type: none; text-indent: 40px;">
-      <li>1 U.S. Marine Corps Officer & Cultural Anthropologist</li>
-      <li>1 Book Fair Expert & Math Lover</li>
-  </ul>
-  <li>1 Promise to Make the World a Better Place</li>
-  <li>5 U.S. States</li>
-  <li>9 Public Schools</li>
-  <li>10 Girl Scout Troops</li>
-  <li>1 Pre-med/Biomedical Engineering major</li>
-  <li>3 Credits Computer Science 101 class</li>
-  <li>1 Computer Science degree</li>
-  <li>100 TB Financial Data</li>
-</ul>
-
-<h3>Instructions:</h3>
-
-<p>Mix Girl Scout, Promise, and dreams of making the world a better place in each of 5 states, 9 public schools, and 10 scout troops. After 17 years, add Pre-med/Biomedical Engineering major and Computer Science 101 class to yield Computer Science major. Four years later, add Computer Science degree and see Girl Scout grow to New York City. Add 100 TB Financial Data to establish Database Administrator expertise. Let Promise to help people at all times simmer. Girl Scout will form <a href="http://developersforgood.org">Developers for Good</a> and connect 700+ technologists with social impact organizations.</p>
-
-<p>After years of being one of few women in the room, introduce Girl Scout to women who are interested in technology, but think it's too late to learn to code. Girl Scout will form <a href="http://girldevelopit.com">Girl Develop It</a> to teach low-cost, judgment-free software development courses. After three years of mixing, teaching, and organizing operations, Girl Develop It will expand to 16 chapters worldwide, over 4,000 students, and a community of 30,000 learners.</p>
-
-<p>As the U.S. Bureau of Labor & Statistics reports we'll have 1 million unfilled software jobs by 2018, mix Girl Scout with film producer of Waiting for Superman and other technical leaders to launch <a href="http://code.org">Code.org</a> film, "<a href="http://youtube.com/watch?feature=player_embedded&v=nKIu9yen5nc">What most schools don't teach</a>." Finally, as Developers for Good and Girl Develop It and Code.org evolve, Girl Scout will produce <a href="http://codemontage.com">CodeMontage</a> to help people become better software engineers while improving the world.</p>
-
-<h3>Results:</h3>
-
-<ul style="list-style-type: none; text-indent: 40px;">
-  <li>700 Developers for Good</li>
-  <li>30,000 Girl Develop It community members</li>
-  <li>16 million+ Code.org "What Most Schools Don't Teach" views</li>
-  <li>40 CodeMontage Open Source Social Impact Projects</li>
-  <li>1 Social Entrepreneur, just getting started on changing the world</li>
-</ul>
+    <title type="html"><![CDATA[Ruby Heroes, Open Source, and Hacking to Prevent Human Trafficking]]></title>
+    <link href="http://vanessahurst.com/ruby-heroes-open-source-and-hacking-to-prevent-trafficking"/>
+    <updated>2012-05-09T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/ruby-heroes-open-source-and-hacking-to-prevent-human-trafficking</id>
+    <content type="html"><![CDATA[<p>First and foremost, Congratulations to&nbsp;<a href="http://twitter.com/yokolet">Yoko Harada</a>, one of this year's&nbsp;<a href="http://rubyheroes.com/">Ruby Heroes</a>! She's made substantial contributions to the Ruby community, specifically for her work on open source projects&nbsp;<a href="http://jruby.org/">JRuby</a>&nbsp;and&nbsp;<a href="http://nokogiri.org">Nokogiri</a>. Yoko inspired me to share an example of one of many projects that were possible thanks to free and open source software, and specifically Nokogiri.<p />In July 2011, Girl Develop It hosted a Hackathon for Humanity (in the Hamptons thanks to&nbsp;<a href="http://twitter.com/dbdj1007">Deborah Jackson</a>&nbsp;&amp;&nbsp;<a href="http://jumpthru.net/">JumpThru</a>!),&nbsp;<a href="http://twitter.com/nahurst">Nathan Hurst</a>&nbsp;and I used Nokogiri to parse data from&nbsp;<a href="http://backpage.com/">Backpage.com</a>&nbsp;and flag potential evidence of human trafficking. We used <a href="http://www.gnu.org/software/wget/">wget</a> to pull the posts and Nokogiri to parse the data into a&nbsp;<a href="http://rubyonrails.org/">Rails</a>&nbsp;application and&nbsp;<a href="http://postgresql.org/">Postgres</a>&nbsp;database, which I then queried to identify potential child prostitution advertisements. We were able to flag hundreds to be investigated and removed by&nbsp;<a href="http://backpage.com/">Backpage.com</a>.<p />The project readme file expands a bit on our methodology- basically, we'd read that many human trafficking rings tend to diversify their crime businesses by engaging in many types of trafficking and other illegal activity, so we cross-referenced some of the phone numbers across different subject areas on the site. We found dozens of posts that once examined by the human eye were clearly not legal, and hardly any false positives. This method proved quite accurate and a lot more manageable than manually sorting through all of the posts.<p />We definitely wouldn't have pulled that off, especially not in a weekend hackathon, without Nokogiri being free, open source, and delightfully easy to use.<p />The project is on Github at&nbsp;<a href="https://github.com/girldevelopit/traffic-report">https://github.com/girldevelopit/traffic-report</a>. Note that this is the code from a one-time weekend project, but if you're interested in forking or just learning from it and building a service to continue this work, please do! We're happy to share any undocumented lessons or answer questions, just reach out by email (<a href="mailto:nathan@ohours.org">nathan@ohours.org</a> or <a href="mailto:vanessa@developersforgood.org">vanessa@developersforgood.org</a>).<p /></p>
 
 ]]></content>
   </entry>

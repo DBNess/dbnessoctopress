@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mentoring | Code for Humanity]]></title>
+  <link href="http://vanessahurst.com/blog/categories/mentoring/atom.xml" rel="self"/>
+  <link href="http://vanessahurst.com/"/>
+  <updated>2013-08-25T11:40:06-04:00</updated>
+  <id>http://vanessahurst.com/</id>
+  <author>
+    <name><![CDATA[Vanessa Hurst]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Scouting for Open Source Software with WebFWD]]></title>
+    <link href="http://vanessahurst.com/scouting-for-open-source-software-with-webfwd"/>
+    <updated>2012-10-08T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/scouting-for-open-source-software-with-webfwd</id>
+    <content type="html"><![CDATA[<p>Dearest Open Source Software,</p>
+
+
+<p>I know you've always been a bit worried about the future - no need to worry, you've got friends. Friends who love you and want you to be successful and sustainable. Among those friends are the crew at Mozilla's Open Innovation Group - and this time they've put together something really exciting: the <a href="http://webfwd.org">WebFWD</a> accelerator.</p>
+
+
+<p><strong>WebFWD is an accelerator for businesses based on open innovation</strong>. The program is entirely remote and lasts 12 weeks with eight of intense education and four of focused product development. At the end of the program, companies may be eligible for <a href="https://webfwd.org/about/fund/">funding from Mozilla</a>.</p>
+
+
+<p>Curious what kinds of products and companies WebFWD crew has been working on so far? Here are the&nbsp;current WebFWD Teams:</p>
+
+
+<p style="padding-left: 30px;"><a href="http://codebender.cc/">Codebender</a>, aka hardware hacking made easy, <a href="http://twitter.com/codebender_cc">@codebender_cc</a><br /> <a href="http://harp.io/">Harp</a>, easy website deployment using Dropbox, <a href="http://twitter.com/harpplatform">@HarpPlatform</a><br /><a href="http://linklib.org/">Linklib</a>, open source video commentary library<br /> <a href="http://openjumpstarts.org/">Open Jumpstarts</a>, try a full web app with just one click, <a href="http://twitter.com/openjumpstarts">@OpenJumpstarts</a><br /><a href="http://sketchfab.com/">Sketchfab</a>, interactive 3D content publishing, <a href="http://twitter.com/sketchfab">@Sketchfab</a><br /> <a href="http://www.triv.io/">Trivio</a>, streamlined data wrangling<br /><a href="http://beta.wercker.com/">Wercker</a>, simplified continuous deployment, <a href="http://twitter.com/wercker">@wercker</a><p /></p>
+<p>And a few of my favorites from the many awesome WebFWD Alumni:</p>
+<p style="padding-left: 30px;"><a href="http://cashmusic.org/">CASHmusic</a>, Wordpress::Bloggers::CASHMusic::Musicians, <a href="http://twitter.com/cashmusic">@cashmusic</a><br /><a href="http://www.tomahawk-player.org/">Tomahawk</a>, a delightful open source iTunes replacement, <a href="http://twitter.com/tomahawk">@tomahawk</a><br /> <a href="http://www.propelly.com/">Propelly</a>, super simple sales of digital files, <a href="http://twitter.com/propelly">@propelly</a></p>
+<p>
+<p>Ready to turn your open source labor love into your main gig?&nbsp;<a href="http://webfwd.org/apply">Apply to WebFWD</a>!</p>
+</p>
+<p>If you have any questions about WebFWD (<a href="http://twitter.com/MozWebFWD">@MozWebFWD</a>), please feel free to <a href="mailto:vanessa@developersforgood.org">email me</a>&nbsp;or sign up for a conversation via <a href="http://ohours.org/dbness">Ohours</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[That Special Someone (A Mentor / Mentee)]]></title>
+    <link href="http://vanessahurst.com/finding-that-special-someone-a-mentor-mentee"/>
+    <updated>2012-08-16T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/that-special-someone-a-mentor-mentee-</id>
+    <content type="html"><![CDATA[<p>They say when you find the right person you just <em>know</em>.</p>
+
+
+<p>Why do we embrace this notion for love and friend relationships, but create our most pivotal career relationships from job titles or at best, text-based inventories of skills? Mentoring is about so much more than a discrete transfer of skills - it's about sharing the real failures and successes we inevitably encounter in our professional lives.</p>
+
+
+<p>I'm grateful to have mentored as a technical lead, founder, and girl scout. I've had excellent short and long-term mentors and I've also connected with "mentors" who I wasn't sure what to talk about with next. I've seen mentoring relationships between people of all ages and from casual to corporate environments and noticed a few common factors of success.</p>
+
+
+<div>All relationships need a strong foundation, and mentoring is no different. The key components of a strong mentoring pair are:<em>&nbsp;</em></div>
+
+
+<p><strong>Chemistry</strong></p>
+
+
+<ul>
+<li>You have to straight up like each other.&nbsp;Mentors must genuinely care about their mentees as individuals so they will share time and experiences openly, without resentment.&nbsp;Mentees must feel a strong enough connection to overcome the discomfort of asking tough questions and to internalize the mentor's advice.</li>
+<li>Corporate mentoring programs tend to match purely based on divisions or job ranks, and their programs are valuable for networking, but rarely as effective as matches with an emotional bond.</li>
+</ul>
+
+
+<p><strong>Shared Values</strong></p>
+
+
+<ul>
+<li>Sharing similar life values makes it more likely you'll be comfortable with similar tactics for dealing with problems, and that you'll both listen to each other.<br /> <span style=""> </span>For example - I believe strongly in the&nbsp;<a href="http://en.wikipedia.org/wiki/Free_culture_movement" target="_blank"><span>free culture movement</span></a>. It would be hard for me to take the advice of a technical mentor who believed in technology that strongly limits use in order to protect copyright holders, such as&nbsp;<a href="http://en.wikipedia.org/wiki/Digital_rights_management" target="_blank"><span>DRM</span></a>. Without a strong basis of shared values, the depth of our relationship and ability to explore solutions together would be limited. I also might snarl at them, which could compromise our chemistry.</li>
+<li>Communities (vs. corporations) often spawn excellent mentoring relationships, even if they don't deliberately facilitate, because of the strength of shared values among members.</li>
+</ul>
+
+
+<p><strong>Transparent Goals</strong></p>
+
+
+<ul>
+<li>Both mentors and mentees must articulate and share their goals. Otherwise, you're just hanging out.</li>
+<li>At the end of a session, and routinely during the active mentoring relationship, both sides should be able to ask "did you get what you hoped for out of this?".</li>
+</ul>
+
+
+<p>Once you've developed a relationship with someone you can learn from or share your knowledge with, the details of when, how, and how often suddenly don't seem like such a chore. You'll be free to focus on sharing and improving through mentorship.</p>
+
+
+<p>Ready to mentor? Reach out to your communities and join the&nbsp;<a href="http://ohours.org/topics/mentoring" target="_blank">mentoring</a>&nbsp;topic on&nbsp;<a href="http://ohours.org/mentoring" target="_blank">Ohours</a>*, which has additional&nbsp;<a href="http://ohours.org/mentoring" target="_blank">tips for mentoring</a>.</p>
+
+
+<p>*Note: I'm an advisor and&nbsp;<span style="text-decoration: line-through;">obsessive</span>&nbsp;avid user of&nbsp;<a href="http://ohours.org/" target="_blank">Ohours</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Mentor Got In a Fist Fight]]></title>
+    <link href="http://vanessahurst.com/my-mentor-got-in-a-fist-fight"/>
+    <updated>2012-08-16T00:00:00-04:00</updated>
+    <id>http://vanessahurst.com/my-mentor-got-in-a-fist-fight</id>
+    <content type="html"><![CDATA[<p>I push an omelet around on my plate as I try to explain to my mentor what's holding me back on a project. It comes down to embarrassment - sometimes I'm so deeply afraid of being embarrassed, I don't even try. My mentor has the perfect cure: she tells me the most embarrassing situation she can remember. Think Lost meets Jerry Springer, startup-style. Her story is messy. And exactly what I need to hear. My thoughts shift - This amazing person is human! If she can make real mistakes and still be so wonderful, maybe there's a chance for me after all!</p>
+
+
+<p>I've been lucky to mentor, be mentored, co-mentor, and generally just talk about work with a lot of great people in various settings. Here are a few keys to success I've noticed for both mentors and mentees.</p>
+
+
+<p><strong>What Awesome Mentors Do</strong><strong>&nbsp;</strong></p>
+
+
+<p><em>Tell it like it is</em></p>
+
+
+<ul>
+<li>Give real, personal, unfiltered insight on what a job, company, or project was really like. Not the "we used analytics and made improvements" excerpts from the company press release, but the "I almost punched him in the face and stormed out" moments your mentee can only learn about from a real person - you.</li>
+</ul>
+
+
+<p><em>Add perspective</em></p>
+
+
+<ul>
+<li>Think outside the box to help your mentee achieve goals or gain insight on a problem. Mentors usually have technical knowledge or experience that puts them in a position to help, even if just by planting the seed of an idea.</li>
+</ul>
+
+
+<p><em>Advocate</em></p>
+
+
+<ul>
+<li>Advocate for your mentee, both directly (if they suffer from&nbsp;<a href="http://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank"><span>impostor syndrome</span></a>) and to others within the organization, company, or community. Remember, your mentee doesn't know your entire network, so you'll need to think of who can help your mentee rather than waiting for an introduction request.</li>
+</ul>
+
+
+<p><em>Set Expectations</em></p>
+
+
+<ul>
+<li>Let your mentee know what you do and don't want to talk about, how often you'd like to be contacted, and through which channels. There's no wrong answer to this, and it helps them get comfortable within your parameters so you both can get the most out of the relationship.</li>
+</ul>
+
+
+<p><em>Listen</em></p>
+
+
+<ul>
+<li>Articulating how things are going to someone they respect who's not their boss can be really meaningful for a mentee. Don't think you need to talk the whole time to provide value.</li>
+</ul>
+
+
+<p><br /><strong>What Awesome Mentees Do</strong></p>
+
+
+<p><em>Make meeting easy</em></p>
+
+
+<ul>
+<li>Use<span>&nbsp;<a href="http://ohours.org/" target="_blank"><span>Ohours</span></a></span>* or another tool to limit time spent on back-and-forth scheduling.</li>
+<li>Send calendar invitations and polite reminders before meetings.</li>
+</ul>
+
+
+<p><em>Articulate goals</em></p>
+
+
+<ul>
+<li>Write down what you hope to accomplish - what's going on that you want to bring up?</li>
+<li>What interesting experience have you been hoping to hear more about from your mentor?</li>
+<li>Email with your mentor in advance of your session to share specifics if you can (though it's always okay to bring something else up).</li>
+</ul>
+
+
+<p><em>Make follow-up easy</em></p>
+
+
+<ul>
+<li>Take notes and remind mentors of connections they'd like to make, that book they forgot the name of but think you'd love, etc.</li>
+</ul>
+
+
+<p>The keys to mentoring are ultimately simple- be genuine, and share your experiences and your goals. Mentoring relationships come in all frequencies (weekly or a few times a year), mediums (video chat or brunch), and arenas (developing specific skills or seeking a promotion). It's up to you to <a href="http://vanessahurst.com/finding-that-special-someone-a-mentor-mentee">find a great match</a> and get the most out of the relationship.</p>
+
+
+<p>Ready to mentor? Reach out to your communities and join the <a href="http://ohours.org/topics/mentoring" target="_blank"><span>mentoring</span></a> topic on <a href="http://ohours.org/mentoring" target="_blank"><span>Ohours</span></a>*, which has additional <a href="http://ohours.org/mentoring" target="_blank">tips for mentoring</a>.</p>
+
+
+<p>*Note: I'm an advisor and <span style="text-decoration: line-through;">obsessive</span> avid user of <a href="http://ohours.org/" target="_blank">Ohours</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Piercing the Tech Networking Bubble with Open Mentoring]]></title>
+    <link href="http://vanessahurst.com/open-mentoring"/>
+    <updated>2011-11-13T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/piercing-the-tech-networking-bubble-with-open-mentoring</id>
+    <content type="html"><![CDATA[<p>Last night I watched&nbsp;Soledad O'Brien's CNN <a href="http://inamerica.blogs.cnn.com/category/black-in-america/" target="_blank">Black in America: The New Promised Land - Silicon Valley</a> special that offered a lesser known perspective on an industry I know well. The special followed black entrepreneurs who participated in the first annual <a href="http://www.newmeaccelerator.com/" target="_blank">NewMe startup accelerator</a>. After the special aired, I watched <a href="http://www.marioarmstrong.com/on-air/innovation-nation-the-official-live-webcast/">Mario Armstrong's Town Hall</a> and heard plenty of great advice from accomplished panelists of different races and backgrounds. In just an hour and a half they covered a range of cultural problems and shared opinions on solutions.</p>
+
+
+<p>The best thing about pieces like this is that they focus on a problem and hopefully, get us all riled up to fix it - but do we? One of the audience members stood up and reminded the room that the change wasn't going to come down from the panelists, but come up from them - that they had to make the change for themselves.</p>
+
+
+<p>Right here and right now, I'd like to do something to address this problem. We heard over and over again the importance of networks and of having the right conversation with the right people. Entrepreneurs were advised to "insert" themselves into social circles of Silicon Valley. I agree with panelist/engineer/founder <a href="http://twitter.com/hankwilliams">Hank Williams</a> that taking baby steps is the key to both programming and life, so here's my step for today:</p>
+
+
+<p><strong>I'll be hosting open video chats specifically to mentor people who aren't already in my established social circles.</strong></p>
+
+
+<p>Here's&nbsp;<a href="http://ohours.org/DBNess" title="My Open Mentoring Availability" target="_blank">My Open Mentoring Availability</a>, starting with</p>
+
+
+<ul>
+<li><a href="http://ohours.org/officehours/3128">Thursday, November 17</a> at 1:00pm, 1:15pm, and 1:30pm ET&nbsp;</li>
+<li><a href="http://ohours.org/officehours/3130">Wednesday, November 23</a> at 2:00pm, 2:15pm, and 2:30pm ET</li>
+</ul>
+
+
+<p>My goal is to make it less uncomfortable for new people to get involved in tech and startup communities.</p>
+
+
+<p>I hope to see other leaders of these communities offer their time and guidance as well. I've written some and talked a whole lot about personal scheduling and efficiency, so I want to be clear that this is a relatively small, effective commitment - I plan to give 45 minutes to conversations with up to three new people and to spend the remaining 15 minutes of my alotted hour following up or laying the groundwork to help those people. This will amount to roughly one hour a week. If you'd like to help, too,&nbsp;consider&nbsp;<a href="http://ohours.org/topics/mentoring">joining the Ohours mentoring topic</a>.</p>
+
+
+<p>If you or anyone you know aspires to be an entrepreneur, engineer,&nbsp;teacher,&nbsp;computer scientist, wielder of data, or perhaps is now a girl scout, military brat, data lover, amateur organizational psychologist, blonde - or maybe none of the above, but would like to talk with someone who is - please send them my way. My door is <a href="http://ohours.org/DBNess">wide open</a>.</p>
+
+
+<p>&nbsp;</p>
+
+]]></content>
+  </entry>
+  
+</feed>

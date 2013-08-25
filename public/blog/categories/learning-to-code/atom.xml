@@ -4,7 +4,7 @@
   <title><![CDATA[Category: learning to code | Code for Humanity]]></title>
   <link href="http://vanessahurst.com/blog/categories/learning-to-code/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-08-25T11:40:06-04:00</updated>
+  <updated>2013-08-25T13:06:48-04:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -79,6 +79,51 @@
 
 
 <p>Looking forward to seeing how this goes :)</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to get hired as a professional developer]]></title>
+    <link href="http://vanessahurst.com/blog/2012/12/07/how-to-get-hired-as-a-professional-developer/"/>
+    <updated>2012-12-07T00:00:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2012/12/07/how-to-get-hired-as-a-professional-developer</id>
+    <content type="html"><![CDATA[<p><em>What hiring managers look for in a candidate, and how you can show them what they want to see</em>. Originally published on <a href="http://skillcrush.com/2012/12/07/how-to-get-hired-as-a-professional-developer">Skillcrush</a>.</p>
+
+<div class="post-main-image">
+  <img src="http://skillcrush.com/wp-content/uploads/2012/12/developer.jpeg" />
+</div>
+
+
+
+
+<div class="entry-content">
+  </br>
+  <p>I’m going to come right out and say it &#8211; coders are better than superheroes. To me, software development is a magical, efficient way to improve the human experience. Thus, I’ve spent my professional life focused on software.</p>
+  <p>Most recently, I recruited software development instructors for <a href="http://girldevelopit.com/">Girl Develop It</a> and helped build the engineering team at <a href="http://paperlesspost.com/">Paperless Post</a>. Previously, I did college recruiting, hiring, and training for a financial data provider. I’m also an advisor to speed-dating-for-software-jobs startup <a href="http://hirelite.com/">Hirelite</a>. In total, I’ve met, recruited, resume-screened, phone-screened, skype-screened, and face-to-face interviewed hundreds of aspiring developers.</p>
+  <p>One of the best things you can do to get hired in any field is to think like a hiring manager. Make their job easy by presenting your background and skills in light of the job they’re hiring for. If they’re looking for an iOS developer, focus on your iOS projects, even if you’ve spent a lot of time doing other cool things. Your resume needn’t be a history of your entire life, nor include everything you know &#8211; it’s a chance to showcase that you can do the job, and a way to earn face time with the company.</p>
+  <p>You’re out to prove that you are relevant to the position, competent, and interesting enough that the hiring manager is excited to talk further. Being relevant and interesting are a matter of packaging and perspective &#8211; competent, however, takes a little bit more.</p>
+  <p>Here are five signs of competence great hiring managers look for:</p>
+  <p><strong>1. Are you smart?</strong><br />
+  Okay, obviously everyone wants to work with smart people. The best hiring managers are, to boot, looking for someone smarter than they are. The idea that software engineering is a matter of straightforward implementation (often compared to building construction) is a myth. Software is intricate and hard and requires smart, conscientious craftspeople to bring it to life.</p>
+  <p>Show you are smart by getting the details right (e.g. fix typos in your resume, keep track of information you’re given during the interview process). Smart is the convergence of intelligence and behavior &#8211; you can be a genius, but if you can’t focus long enough to tell me about your breakthroughs, you’re not acting smart. At the resume stage, good grades and good schools can be proxies for smartness, so feel free to add them, but don’t worry if they don’t represent you at your best &#8211; find what does, and showcase that.</p>
+  <p><strong>2. Do you get things done?</strong><br />
+  As Joel Spolsky put it, <a href="http://www.joelonsoftware.com/items/2007/06/05.html">“People who are smart but don’t get things done&#8230;would rather mull over something academic about a problem rather than ship on time.”</a> The need to get things done is the reason &#8211; really, the only reason &#8211; we’re hiring. Getting things done is a must.</p>
+  <p>Show you have a track record of accomplishing things &#8211; regardless of whether they’re even code-related. What have you shipped? When have you demonstrated leadership? Remember that some of the best leadership is demonstrated without authority. A willingness to make a path where there isn’t one, to solve a problem and hop <a href="http://www.theodore-roosevelt.com/trsorbonnespeech.html">in the arena</a>, to not always wait for permission before beginning important work, is extremely valuable. If you get things done, shout it from the rooftops! <em>We want to hire you.</em></p>
+  <p><strong>3. Do you solve “hard” problems?</strong><br />
+  Learning to code is no small feat, but software developers are responsible for more than just writing code. “Hard” in this case describes problems that have no clear solution and haven’t been solved before. Coding your own blog from scratch is not a hard problem in this sense &#8211; it has been done before and there’s plenty of documentation to explain how to do it again. It’s a worthy learning exercise, but it’s just not the same as a real-live project with unpredictable requirements, unanticipated technology incompatibilities, stakeholder meltdowns, warts, and all.</p>
+  <p>Show you’ve worked outside the box and still succeeded. The best way to do this is to build or improve an open-source software application that has users and stakeholders. <a href="http://github.com/">Github</a> is a great way to showcase this kind of work, and captures your work with other people far better than private code samples can. The next best way is to showcase the technical problems you have solved, no matter how hard, and also the hard problems you have solved, regardless of how technical.</p>
+  <p>Wrote a short custom script that saves you and coworkers a few hours a month? Ran a large conference? Started an event series? Researched for a thesis? <em>We want to hire you.</em></p>
+  <p><strong>4. Can you explain your solution?</strong><br />
+  “Communication skills” does not mean “is able to speak.” It means “can say something important in a way that others digest.” The most valuable team members are the ones who not only get things done well, but who expand their impact by communicating what they did to the rest of the team. Developers who share lessons learned, teach others, and document how and why they make decisions are much more valuable (and often more enjoyable to work with) than those who work in a vacuum.</p>
+  <p>Show your blog, the documentation you’ve written, articles you’ve published, talks you’ve given, even your twitter stream &#8211; anything that shows you’re sharing what you’ve learned with others. Your blog can be a simple as “I tried to install the Heroku gem on Ruby 1.9.3 and it broke, so I switched back to Ruby 1.9.2 and it worked like a charm” and some one else on the Internet will feel less lonely when they experience the same thing. The only thing worse than an unsolved problem is a problem solved by a person who can’t tell you how the solution works. Show us that you won’t be that person. <em>We want to hire you.</em></p>
+  <p><strong>5. Are you passionate?</strong><br />
+  Great developers must be passionate to make and/or change things. Even the best corporate incentive structure can’t replace a person who, upon seeing a problem, is naturally compelled to fix it. This is the engineer’s equivalent of scientific curiosity, and it manifests in all sorts of ways. For example, making movies counts, watching movies does not, creating or mixing music counts, attending concerts does not. In startups especially, everything is some shade of broken. There’s just no room for people who don’t improve without being told to do so.</p>
+  <p>Show whatever you’re passionate about. Get involved with communities and projects that address what makes you angry, or promote what makes you happy. Attend developer meetups and hackathons when you can, and engage with online communities if those don’t fit your schedule. Your passion doesn’t have to be coding itself &#8211; it can be better communication, education, healthcare, banking &#8211; whatever you feel called to fix in the world. Showing that you’re driven by something other than your manager showing up at your desk every few hours is powerful. <em>We want to hire you.</em></p>
+  <p><strong>This all sounds great, but I am just a beginning developer. Where can I find hard problems to solve?</strong><br />
+  In my experience recruiting developers and training beginners, I’ve found that solving hard problems has been by far the most difficult trait to find in aspiring developers, especially early in their software careers. I founded <a href="http://codemontage.com/">CodeMontage</a> to fix this problem, by helping developers get meaningful experience through contributions to open source, social good projects. We help coders find projects with causes and technologies they care about, challenges that build their skills and move the project forward, and code reviews and feedback on the quality and structure of their code.</p>
+  <p>CodeMontage is how coders improve their skills while improving the world. If you have dabbled in some online or offline coding classes, but now need to build up a portfolio of hard problems that you’ve successfully solved, <a href="http://codemontage.com/">join us</a>.</p>
+</div>
 
 ]]></content>
   </entry>

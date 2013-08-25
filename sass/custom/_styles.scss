@@ -1,2 +1,16 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+div.speaking_events {
+  a:link { color: #222; text-decoration: none; }
+  a:hover { color: $solar-violet; }
+  a:visited { color: $base00; }
+  
+  h4 { color: #03877D; }
+  ul.speaking_event_details li { 
+    display: inline;
+    font-weight: normal;
+    font-size: .85em; 
+    padding-right: 2em;
+  }
+}

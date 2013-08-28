@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: advice | Code for Humanity]]></title>
+  <link href="http://vanessahurst.com/blog/categories/advice/atom.xml" rel="self"/>
+  <link href="http://vanessahurst.com/"/>
+  <updated>2013-08-28T16:27:35-04:00</updated>
+  <id>http://vanessahurst.com/</id>
+  <author>
+    <name><![CDATA[Vanessa Hurst]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Girl Geek Dinner NYC #9]]></title>
+    <link href="http://vanessahurst.com/blog/2013/08/28/girl-geek-dinner-nyc-number-9/"/>
+    <updated>2013-08-28T16:18:00-04:00</updated>
+    <id>http://vanessahurst.com/blog/2013/08/28/girl-geek-dinner-nyc-number-9</id>
+    <content type="html"><![CDATA[<div class="storify">
+  <iframe src="http://vanessahurst.com//storify.com/DBNess/girl-geek-dinner-nyc-9/embed" width="100%" height=750 frameborder=no allowtransparency=true></iframe>
+  <script src="http://vanessahurst.com//storify.com/DBNess/girl-geek-dinner-nyc-9.js"></script>
+  <noscript>[<a href="http://vanessahurst.com//storify.com/DBNess/girl-geek-dinner-nyc-9" target="_blank">View the story "Girl Geek Dinner NYC #9" on Storify</a>]</noscript>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

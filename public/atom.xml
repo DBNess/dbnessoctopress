@@ -4,7 +4,7 @@
   <title><![CDATA[Code for Humanity]]></title>
   <link href="http://vanessahurst.com/atom.xml" rel="self"/>
   <link href="http://vanessahurst.com/"/>
-  <updated>2013-09-06T00:28:03-04:00</updated>
+  <updated>2013-11-03T23:13:02-05:00</updated>
   <id>http://vanessahurst.com/</id>
   <author>
     <name><![CDATA[Vanessa Hurst]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gratitude Month]]></title>
+    <link href="http://vanessahurst.com/blog/2013/11/03/gratitude-month/"/>
+    <updated>2013-11-03T22:01:00-05:00</updated>
+    <id>http://vanessahurst.com/blog/2013/11/03/gratitude-month</id>
+    <content type="html"><![CDATA[<p>November is one of my favorite months because everyone becomes obsessed with two of my longtime favorite things: food and gratitude. If it weren&#8217;t for the creepy mustaches of <a href="http://www.movember.com/" title="Movember: the creepiest possible way to spread the word about Prostate Cancer" target="_blank">Movember</a>, November might even triumph as the best month of the year.</p>
+<p>&#8216;Stache dilemma aside, I try to express gratitude regularly for three main reasons:</p>
+  <ol>
+    <li><strong>Acknowledgement</strong> - Life is beautiful and all of us, especially those who can read and freely share ideas through the internet, have a lot to be grateful for.</li>
+    <li><strong>Happiness</strong> - It makes us happy to acknowledge the people, places, and things that make our lives better, according to <a href="http://www.youtube.com/watch?v=oHv6vTKD6lg" title="Science of Gratitude (Video)" target="_blank">science</a>.</li>
+    <li><strong>Future Happiness</strong> - <span>When we know what really makes us happy (aka what we’re grateful for), we can better prioritize our lives.</span></li>
+  </ol>
+<p>I have a few tricks for reminding myself to express gratitude, including a thrice daily gratitude journal prompt from <a href="http://grateful160.com" title="grateful160 | Gratitude Journal" target="_blank">grateful160</a> and browsing <a href="http://www.paperlesspost.com/cards/group/stationery_thank_you_notes" title="Thank You Notes on Paperless Post" target="_blank">thank you cards on Paperless Post</a>. What works for you? Do you think gratitude is important? I&#8217;d love to hear why or why not.</p>
+
+<p>Thank you for reading!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Girl Geek Dinner NYC #9]]></title>
@@ -467,26 +485,6 @@
 <p>You almost got me down with these health problems, but even so</p>
 <p>1) <a href="http://www.developersforgood.org">Developers for Good</a> has directly connected dozens of programmers with awesome volunteer opportunities in NYC,<br /> 2) <a href="http://www.hirelite.com">Hirelite</a> has placed dozens of software engineers with great jobs in NYC through efficient video interviews,<br /> 3)&nbsp;<a href="http://www.girldevelopit.org">Girl Develop It</a> has created a community of over 600 women, including 200+ students, who are psyched about software development,<br /> 4) <a href="http://xkcd.com/828">xkcd</a> helped me stay geeky and stay positive,<br /> and<br /> 5) I am going to change the world anyway.</p>
 <p>Bring it on, 2011!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Women in Tech: The Opportunity]]></title>
-    <link href="http://vanessahurst.com/women-in-tech-the-opportunity"/>
-    <updated>2010-10-26T00:00:00-04:00</updated>
-    <id>http://vanessahurst.com/women-in-tech-the-opportunity</id>
-    <content type="html"><![CDATA[<div><span style=""> </span>In the United States, STEM (Science, Technology, Engineering, and Math) fields are hurting. You know you&#8217;ve got a problem when even the government is trying to solve it (as shown by the White House&#8217;s&nbsp;<a href="http://www.whitehouse.gov/issues/education/educate-innovate" target="_blank">Educate to Innovate</a>&nbsp;initiative&nbsp;(<a href="http://www.whitehouse.gov/the-press-office/president-obama-launches-educate-innovate-campaign-excellence-science-technology-en" target="_blank">Nov. 2009</a>)&nbsp;and private-sector CEO engagement in&nbsp;<a href="http://www.changetheequation.org/" target="_blank">Change The Equation</a>&nbsp;(<a href="http://news.thomasnet.com/IMT/archives/2010/09/inside-change-the-equation-stem-education-initiative.html" target="_blank">Sept. 2010</a>)). Raw data clearly shows that the US awards a significantly smaller portion of science and engineering bachelor&#8217;s degrees than the majority of reporting countries (<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_414.asp" target="_blank">NCES</a>). Within that already meek representation, computer science stands out as a dearth among dearths.</div>
-<p />
-<div>So techies are awesome, but we aren&#8217;t training nearly enough of them. Where could we possibly find more potential programmers??</div>
-<p />
-<div>The New York Times offers a classic&nbsp;<a href="http://www.nytimes.com/imagepages/2007/04/17/science/20070417_COMP_GRAPHIC.html" target="_blank">visualization of the CS gender gap</a>:</div>
-<br />
-<div><img src="http://graphics8.nytimes.com/images/2007/04/17/science/20070417_COMP_GRAPHIC.gif"></div>
-<div>This visualization shows data through 2004. It has only gotten worse since then.&nbsp;In the US in 2008,&nbsp;<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_268.asp" target="_blank">57%</a>&nbsp;of all&nbsp;bachelor&#8217;s degree recipients were female, but only&nbsp;<a href="http://nces.ed.gov/programs/digest/d09/tables/dt09_303.asp" target="_blank">17%</a>&nbsp;of bachelor&#8217;s degrees in computer and information sciences were awarded to women.&nbsp;Oops. Looks like we found our missing programmers!</div>
-<p />
-<div>There are certainly plenty of underrepresented groups in computer science, but the male/female gap is by far the most severe and spans a variety of racial and socioeconomic groups, so it makes sense to address as a distinct priority.</div>
-<p />
-<div>As recent as a few weeks ago, a dedicated&nbsp;<a href="http://techcrunch.com/2010/09/28/girls-in-blech/" target="_blank">Women In Tech panel at TechCrunch Disrupt</a>&nbsp;established that everyone knows women are underrepresented in tech (especially tech startups), but left viewers wanting when it came to solutions. A few panel members noted that what we could really use is more women studying computer science or learning to program. I wholeheartedly agree.</div>
 ]]></content>
   </entry>
   
